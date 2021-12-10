@@ -1,0 +1,1010 @@
+rail_id	bw	sra_attribute.disease	sra_attribute.ethnicity	sra_attribute.isolate	sra_attribute.disease_stage
+SRR8615510	sra.base_sums.SRP186687_SRR8615510.ALL.bw	OCI-AML5	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M4)
+SRR8615511	sra.base_sums.SRP186687_SRR8615511.ALL.bw	KYSE-450	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615522	sra.base_sums.SRP186687_SRR8615522.ALL.bw	MHH-NB-11	metastasis	Caucasian	neuroblastoma
+SRR8615523	sra.base_sums.SRP186687_SRR8615523.ALL.bw	MHH-CALL-3	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615524	sra.base_sums.SRP186687_SRR8615524.ALL.bw	MHH-CALL-4	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615525	sra.base_sums.SRP186687_SRR8615525.ALL.bw	SNU-1076	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615528	sra.base_sums.SRP186687_SRR8615528.ALL.bw	CAL-85-1	primary	Caucasian	carcinoma
+SRR8615529	sra.base_sums.SRP186687_SRR8615529.ALL.bw	NCI-H292	metastasis	African_american	carcinoma (mucoepidermoid_carcinoma)
+SRR8615530	sra.base_sums.SRP186687_SRR8615530.ALL.bw	NCI-H3122	NA	NA	NA
+SRR8615532	sra.base_sums.SRP186687_SRR8615532.ALL.bw	CAMA-1	metastasis	Caucasian	carcinoma
+SRR8615533	sra.base_sums.SRP186687_SRR8615533.ALL.bw	Calu-1	metastasis	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615535	sra.base_sums.SRP186687_SRR8615535.ALL.bw	NCI-H2405	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615536	sra.base_sums.SRP186687_SRR8615536.ALL.bw	NCI-H2444	primary	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615537	sra.base_sums.SRP186687_SRR8615537.ALL.bw	NCI-H2347	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615538	sra.base_sums.SRP186687_SRR8615538.ALL.bw	NCI-H23	primary	African_american	carcinoma (non_small_cell_carcinoma)
+SRR8616000	sra.base_sums.SRP186687_SRR8616000.ALL.bw	HCC-2279	primary	Asian	carcinoma (adenocarcinoma)
+SRR8616001	sra.base_sums.SRP186687_SRR8616001.ALL.bw	HCC2218	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616002	sra.base_sums.SRP186687_SRR8616002.ALL.bw	DMS 114	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616003	sra.base_sums.SRP186687_SRR8616003.ALL.bw	DMS 153	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616004	sra.base_sums.SRP186687_SRR8616004.ALL.bw	DMS 273	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616005	sra.base_sums.SRP186687_SRR8616005.ALL.bw	DMS 454	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616006	sra.base_sums.SRP186687_SRR8616006.ALL.bw	DEL	metastasis	Caucasian	lymphoid_neoplasm
+SRR8616007	sra.base_sums.SRP186687_SRR8616007.ALL.bw	Detroit 562	metastasis	Caucasian	carcinoma
+SRR8616008	sra.base_sums.SRP186687_SRR8616008.ALL.bw	DK-MG	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8616009	sra.base_sums.SRP186687_SRR8616009.ALL.bw	DM-3	metastasis	Caucasian	mesothelioma
+SRR8616010	sra.base_sums.SRP186687_SRR8616010.ALL.bw	T3M-4	metastasis	Asian	carcinoma (ductal_carcinoma)
+SRR8616011	sra.base_sums.SRP186687_SRR8616011.ALL.bw	SUIT-2	metastasis	Asian	carcinoma (ductal_carcinoma)
+SRR8616012	sra.base_sums.SRP186687_SRR8616012.ALL.bw	A-673	primary	Caucasian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8616013	sra.base_sums.SRP186687_SRR8616013.ALL.bw	A-704	primary	African_american	carcinoma (renal_cell_carcinoma)
+SRR8616014	sra.base_sums.SRP186687_SRR8616014.ALL.bw	A427	NA	NA	NA
+SRR8616015	sra.base_sums.SRP186687_SRR8616015.ALL.bw	A-498	primary	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8616016	sra.base_sums.SRP186687_SRR8616016.ALL.bw	A4/Fuk	primary	Asian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8616017	sra.base_sums.SRP186687_SRR8616017.ALL.bw	A549	primary	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8616018	sra.base_sums.SRP186687_SRR8616018.ALL.bw	A-253	primary	Caucasian	carcinoma (mucoepidermoid_carcinoma)
+SRR8616019	sra.base_sums.SRP186687_SRR8616019.ALL.bw	A2780	primary	African_american	carcinoma (adenocarcinoma)
+SRR8616020	sra.base_sums.SRP186687_SRR8616020.ALL.bw	A-375	primary	Caucasian	malignant_melanoma
+SRR8616021	sra.base_sums.SRP186687_SRR8616021.ALL.bw	A3/KAW	primary	Asian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8616022	sra.base_sums.SRP186687_SRR8616022.ALL.bw	SNU-81	primary	Asian	carcinoma
+SRR8616023	sra.base_sums.SRP186687_SRR8616023.ALL.bw	SNU-761	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8616024	sra.base_sums.SRP186687_SRR8616024.ALL.bw	SNU-61	primary	Asian	carcinoma
+SRR8616025	sra.base_sums.SRP186687_SRR8616025.ALL.bw	SNU-601	metastasis	Asian	carcinoma
+SRR8616026	sra.base_sums.SRP186687_SRR8616026.ALL.bw	SNU-626	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8616027	sra.base_sums.SRP186687_SRR8616027.ALL.bw	SNU-620	metastasis	Asian	carcinoma
+SRR8616028	sra.base_sums.SRP186687_SRR8616028.ALL.bw	RPMI 8226	primary	African_american	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8616029	sra.base_sums.SRP186687_SRR8616029.ALL.bw	SNU-668	metastasis	Asian	carcinoma (signet_ring_adenocarcinoma)
+SRR8616030	sra.base_sums.SRP186687_SRR8616030.ALL.bw	SNU-738	primary	Asian	glioma (oligodendroglioma)
+SRR8616031	sra.base_sums.SRP186687_SRR8616031.ALL.bw	SNU-719	primary	Asian	carcinoma
+SRR8616032	sra.base_sums.SRP186687_SRR8616032.ALL.bw	HT-29	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616033	sra.base_sums.SRP186687_SRR8616033.ALL.bw	HT55	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616034	sra.base_sums.SRP186687_SRR8616034.ALL.bw	KYSE-150	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616035	sra.base_sums.SRP186687_SRR8616035.ALL.bw	KYSE-140	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616036	sra.base_sums.SRP186687_SRR8616036.ALL.bw	KYSE-270	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616037	sra.base_sums.SRP186687_SRR8616037.ALL.bw	KYSE-180	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616038	sra.base_sums.SRP186687_SRR8616038.ALL.bw	KYSE-410	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616039	sra.base_sums.SRP186687_SRR8616039.ALL.bw	KYSE-30	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616040	sra.base_sums.SRP186687_SRR8616040.ALL.bw	HSC-2	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616041	sra.base_sums.SRP186687_SRR8616041.ALL.bw	HSC-3	metastasis	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616042	sra.base_sums.SRP186687_SRR8616042.ALL.bw	HSC-4	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616043	sra.base_sums.SRP186687_SRR8616043.ALL.bw	HT-1080	metastasis	Caucasian	fibrosarcoma
+SRR8616044	sra.base_sums.SRP186687_SRR8616044.ALL.bw	HT115	primary	Caucasian	carcinoma
+SRR8616045	sra.base_sums.SRP186687_SRR8616045.ALL.bw	HT-1197	primary	Caucasian	carcinoma
+SRR8616046	sra.base_sums.SRP186687_SRR8616046.ALL.bw	HT-1376	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8616047	sra.base_sums.SRP186687_SRR8616047.ALL.bw	HT-144	metastasis	Caucasian	malignant_melanoma
+SRR8616048	sra.base_sums.SRP186687_SRR8616048.ALL.bw	SK-MEL-1	metastasis	Caucasian	malignant_melanoma
+SRR8616049	sra.base_sums.SRP186687_SRR8616049.ALL.bw	SK-MEL-24	metastasis	Caucasian	malignant_melanoma
+SRR8616050	sra.base_sums.SRP186687_SRR8616050.ALL.bw	SK-LU-1	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616051	sra.base_sums.SRP186687_SRR8616051.ALL.bw	SKM-1	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5)
+SRR8616052	sra.base_sums.SRP186687_SRR8616052.ALL.bw	SK-MEL-31	primary	Caucasian	malignant_melanoma
+SRR8616053	sra.base_sums.SRP186687_SRR8616053.ALL.bw	SK-MEL-3	metastasis	Caucasian	malignant_melanoma
+SRR8616054	sra.base_sums.SRP186687_SRR8616054.ALL.bw	SK-MEL-28	primary	Caucasian	malignant_melanoma
+SRR8616055	sra.base_sums.SRP186687_SRR8616055.ALL.bw	SK-MEL-30	metastasis	Caucasian	malignant_melanoma
+SRR8616056	sra.base_sums.SRP186687_SRR8616056.ALL.bw	SK-MEL-5	metastasis	Caucasian	malignant_melanoma
+SRR8616057	sra.base_sums.SRP186687_SRR8616057.ALL.bw	SK-MES-1	metastasis	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616058	sra.base_sums.SRP186687_SRR8616058.ALL.bw	SW403	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616059	sra.base_sums.SRP186687_SRR8616059.ALL.bw	SW480	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616060	sra.base_sums.SRP186687_SRR8616060.ALL.bw	MOLT-16	primary	African_american	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8616061	sra.base_sums.SRP186687_SRR8616061.ALL.bw	MOLT-13	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia, L2)
+SRR8616062	sra.base_sums.SRP186687_SRR8616062.ALL.bw	NCI-H1623	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8616063	sra.base_sums.SRP186687_SRR8616063.ALL.bw	MOLM-6	primary	Asian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8616064	sra.base_sums.SRP186687_SRR8616064.ALL.bw	MOLM-16	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M0)
+SRR8616065	sra.base_sums.SRP186687_SRR8616065.ALL.bw	MOLP-8	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8616066	sra.base_sums.SRP186687_SRR8616066.ALL.bw	MOLP-2	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8616067	sra.base_sums.SRP186687_SRR8616067.ALL.bw	ML-1	primary	Caucasian	carcinoma (follicular_carcinoma)
+SRR8616068	sra.base_sums.SRP186687_SRR8616068.ALL.bw	MKN7	metastasis	Asian	carcinoma (tubular_adenocarcinoma)
+SRR8616069	sra.base_sums.SRP186687_SRR8616069.ALL.bw	MOLM-13	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5a)
+SRR8616070	sra.base_sums.SRP186687_SRR8616070.ALL.bw	MM1-S	primary	African_american	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8616071	sra.base_sums.SRP186687_SRR8616071.ALL.bw	KP-N-SI9s	metastasis	Asian	neuroblastoma
+SRR8616072	sra.base_sums.SRP186687_SRR8616072.ALL.bw	KP-N-YN	metastasis	Asian	neuroblastoma
+SRR8616073	sra.base_sums.SRP186687_SRR8616073.ALL.bw	KS-1	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8616074	sra.base_sums.SRP186687_SRR8616074.ALL.bw	KU-19-19	primary	Asian	carcinoma (transitional_cell_carcinoma)
+SRR8616075	sra.base_sums.SRP186687_SRR8616075.ALL.bw	KP4	metastasis	Asian	carcinoma (ductal_carcinoma)
+SRR8616076	sra.base_sums.SRP186687_SRR8616076.ALL.bw	KPL-1	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616077	sra.base_sums.SRP186687_SRR8616077.ALL.bw	KPMRTRY	NA	NA	NA
+SRR8616078	sra.base_sums.SRP186687_SRR8616078.ALL.bw	KP-N-RT-BM-1	metastasis	Asian	neuroblastoma
+SRR8616079	sra.base_sums.SRP186687_SRR8616079.ALL.bw	ChaGo-K-1	primary	Caucasian	carcinoma
+SRR8616080	sra.base_sums.SRP186687_SRR8616080.ALL.bw	KU812	primary	Asian	haematopoietic_neoplasm (chronic_myeloid_leukaemia, Ph_positive)
+SRR8616081	sra.base_sums.SRP186687_SRR8616081.ALL.bw	KURAMOCHI	metastasis	Asian	carcinoma (undifferentiated_carcinoma)
+SRR8616083	sra.base_sums.SRP186687_SRR8616083.ALL.bw	CHP-212	primary	Caucasian	neuroblastoma
+SRR8616084	sra.base_sums.SRP186687_SRR8616084.ALL.bw	Toledo	primary	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8616085	sra.base_sums.SRP186687_SRR8616085.ALL.bw	TOV-112D	primary	Caucasian	carcinoma (endometrioid_carcinoma)
+SRR8616086	sra.base_sums.SRP186687_SRR8616086.ALL.bw	TM-87;TM87	NA	NA	NA
+SRR8616087	sra.base_sums.SRP186687_SRR8616087.ALL.bw	TO 175.T	metastasis	Caucasian	lymphoid_neoplasm (Hodgkin_lymphoma)
+SRR8616088	sra.base_sums.SRP186687_SRR8616088.ALL.bw	TIG-3 TD	NA	NA	other (immortalized_embryonic_fibroblast)
+SRR8616089	sra.base_sums.SRP186687_SRR8616089.ALL.bw	TM-31	primary	Asian	glioma (astrocytoma)
+SRR8616090	sra.base_sums.SRP186687_SRR8616090.ALL.bw	SH-4	metastasis	Caucasian	malignant_melanoma
+SRR8616091	sra.base_sums.SRP186687_SRR8616091.ALL.bw	THP-1	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5)
+SRR8616092	sra.base_sums.SRP186687_SRR8616092.ALL.bw	TEN	primary	Asian	carcinoma (clear_cell_carcinoma)
+SRR8616093	sra.base_sums.SRP186687_SRR8616093.ALL.bw	TF-1	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M6)
+SRR8616094	sra.base_sums.SRP186687_SRR8616094.ALL.bw	RKN	primary	Asian	leiomyosarcoma
+SRR8616095	sra.base_sums.SRP186687_SRR8616095.ALL.bw	SCC-9	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616096	sra.base_sums.SRP186687_SRR8616096.ALL.bw	SCLC-21H	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616097	sra.base_sums.SRP186687_SRR8616097.ALL.bw	SCC-25	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616098	sra.base_sums.SRP186687_SRR8616098.ALL.bw	SCC-4	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616099	sra.base_sums.SRP186687_SRR8616099.ALL.bw	SCaBER	primary	African_american	carcinoma (transitional_cell_carcinoma)
+SRR8616100	sra.base_sums.SRP186687_SRR8616100.ALL.bw	SCC-15	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616101	sra.base_sums.SRP186687_SRR8616101.ALL.bw	Saos-2	primary	Caucasian	osteosarcoma
+SRR8616102	sra.base_sums.SRP186687_SRR8616102.ALL.bw	SBC-5	primary	Asian	carcinoma (small_cell_carcinoma)
+SRR8616103	sra.base_sums.SRP186687_SRR8616103.ALL.bw	LC-1F	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616104	sra.base_sums.SRP186687_SRR8616104.ALL.bw	SALE	NA	Caucasian	other (immortalized_epithelial)
+SRR8616105	sra.base_sums.SRP186687_SRR8616105.ALL.bw	NCI-H2342	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616106	sra.base_sums.SRP186687_SRR8616106.ALL.bw	NCI-H2291	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8616107	sra.base_sums.SRP186687_SRR8616107.ALL.bw	NCI-H2171	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616108	sra.base_sums.SRP186687_SRR8616108.ALL.bw	NCI-H2170	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616109	sra.base_sums.SRP186687_SRR8616109.ALL.bw	NCI-H2196	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616110	sra.base_sums.SRP186687_SRR8616110.ALL.bw	NCI-H2172	primary	African_american	carcinoma (non_small_cell_carcinoma)
+SRR8616111	sra.base_sums.SRP186687_SRR8616111.ALL.bw	NCI-H2228	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616112	sra.base_sums.SRP186687_SRR8616112.ALL.bw	NCI-H2227	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616113	sra.base_sums.SRP186687_SRR8616113.ALL.bw	NCI-H2286	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616114	sra.base_sums.SRP186687_SRR8616114.ALL.bw	NCI-H226	metastasis	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616115	sra.base_sums.SRP186687_SRR8616115.ALL.bw	LCLC-103H	metastasis	Caucasian	carcinoma (large_cell_carcinoma)
+SRR8616116	sra.base_sums.SRP186687_SRR8616116.ALL.bw	BICR 6	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616117	sra.base_sums.SRP186687_SRR8616117.ALL.bw	BICR 56	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616118	sra.base_sums.SRP186687_SRR8616118.ALL.bw	BL-70	primary	Caucasian	lymphoid_neoplasm (Burkitt_lymphoma)
+SRR8616119	sra.base_sums.SRP186687_SRR8616119.ALL.bw	BL-41	primary	Caucasian	lymphoid_neoplasm (Burkitt_lymphoma)
+SRR8616120	sra.base_sums.SRP186687_SRR8616120.ALL.bw	BICR 18	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616121	sra.base_sums.SRP186687_SRR8616121.ALL.bw	BICR 16	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616122	sra.base_sums.SRP186687_SRR8616122.ALL.bw	BICR 31	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616123	sra.base_sums.SRP186687_SRR8616123.ALL.bw	BICR 22	metastasis	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616124	sra.base_sums.SRP186687_SRR8616124.ALL.bw	BT-20	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616125	sra.base_sums.SRP186687_SRR8616125.ALL.bw	BT-12	NA	NA	NA
+SRR8616126	sra.base_sums.SRP186687_SRR8616126.ALL.bw	HMCB	primary	Caucasian	malignant_melanoma
+SRR8616127	sra.base_sums.SRP186687_SRR8616127.ALL.bw	HMC-1-8	metastasis	Asian	carcinoma
+SRR8616128	sra.base_sums.SRP186687_SRR8616128.ALL.bw	TE-9	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616129	sra.base_sums.SRP186687_SRR8616129.ALL.bw	Hep G2	primary	Caucasian	carcinoma (hepatocellular_carcinoma)
+SRR8616130	sra.base_sums.SRP186687_SRR8616130.ALL.bw	Hep 3B2.1-7	primary	African_american	carcinoma (hepatocellular_carcinoma)
+SRR8616131	sra.base_sums.SRP186687_SRR8616131.ALL.bw	HGC-27	metastasis	Asian	carcinoma (undifferentiated_adenocarcinoma)
+SRR8616132	sra.base_sums.SRP186687_SRR8616132.ALL.bw	Hey-A8	metastasis	Caucasian	carcinoma
+SRR8616133	sra.base_sums.SRP186687_SRR8616133.ALL.bw	HL-60	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M2)
+SRR8616134	sra.base_sums.SRP186687_SRR8616134.ALL.bw	HH	primary	Caucasian	lymphoid_neoplasm (adult_T_cell_lymphoma-leukaemia)
+SRR8616135	sra.base_sums.SRP186687_SRR8616135.ALL.bw	HLF	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8616136	sra.base_sums.SRP186687_SRR8616136.ALL.bw	HLF-a	primary	African_american	carcinoma (squamous_cell_carcinoma)
+SRR8616137	sra.base_sums.SRP186687_SRR8616137.ALL.bw	CI-1	metastasis	Caucasian	lymphoid_neoplasm (B_cell_lymphoma_unspecified)
+SRR8616138	sra.base_sums.SRP186687_SRR8616138.ALL.bw	CJM	metastasis	Asian	malignant_melanoma
+SRR8616139	sra.base_sums.SRP186687_SRR8616139.ALL.bw	CL-11	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616140	sra.base_sums.SRP186687_SRR8616140.ALL.bw	CL-14	primary	Caucasian	carcinoma
+SRR8616141	sra.base_sums.SRP186687_SRR8616141.ALL.bw	CL-34	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616142	sra.base_sums.SRP186687_SRR8616142.ALL.bw	CL-40	primary	Caucasian	carcinoma
+SRR8616143	sra.base_sums.SRP186687_SRR8616143.ALL.bw	CMK	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M7)
+SRR8616144	sra.base_sums.SRP186687_SRR8616144.ALL.bw	CML-T1	primary	Asian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8616145	sra.base_sums.SRP186687_SRR8616145.ALL.bw	COLO 201	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8616146	sra.base_sums.SRP186687_SRR8616146.ALL.bw	COLO-320	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616147	sra.base_sums.SRP186687_SRR8616147.ALL.bw	SK-N-DZ	metastasis	Caucasian	neuroblastoma
+SRR8616148	sra.base_sums.SRP186687_SRR8616148.ALL.bw	P31/FUJ	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5)
+SRR8616149	sra.base_sums.SRP186687_SRR8616149.ALL.bw	P12-ICHIKAWA	primary	Asian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8616150	sra.base_sums.SRP186687_SRR8616150.ALL.bw	Panc 02.03	primary	Caucasian	carcinoma
+SRR8616151	sra.base_sums.SRP186687_SRR8616151.ALL.bw	P3HR-1	metastasis	African_american	lymphoid_neoplasm (Burkitt_lymphoma)
+SRR8616152	sra.base_sums.SRP186687_SRR8616152.ALL.bw	NCI-H69	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616153	sra.base_sums.SRP186687_SRR8616153.ALL.bw	NCI-H716	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8616154	sra.base_sums.SRP186687_SRR8616154.ALL.bw	OVTOKO	metastasis	Asian	carcinoma (clear_cell_carcinoma)
+SRR8616155	sra.base_sums.SRP186687_SRR8616155.ALL.bw	OVSAHO	metastasis	Asian	carcinoma (adenocarcinoma)
+SRR8616156	sra.base_sums.SRP186687_SRR8616156.ALL.bw	NCI-H650	metastasis	Caucasian	carcinoma (bronchioloalveolar_adenocarcinoma)
+SRR8616157	sra.base_sums.SRP186687_SRR8616157.ALL.bw	NCI-H660	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616158	sra.base_sums.SRP186687_SRR8616158.ALL.bw	NCI-H661	metastasis	Caucasian	carcinoma (large_cell_carcinoma)
+SRR8616160	sra.base_sums.SRP186687_SRR8616160.ALL.bw	NCI-H524	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616161	sra.base_sums.SRP186687_SRR8616161.ALL.bw	NCI-H526	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616162	sra.base_sums.SRP186687_SRR8616162.ALL.bw	NCI-H596	primary	Caucasian	carcinoma (mixed_adenosquamous_carcinoma)
+SRR8616163	sra.base_sums.SRP186687_SRR8616163.ALL.bw	NCI-H647	metastasis	Caucasian	carcinoma (mixed_adenosquamous_carcinoma)
+SRR8616164	sra.base_sums.SRP186687_SRR8616164.ALL.bw	697	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8616165	sra.base_sums.SRP186687_SRR8616165.ALL.bw	647-V	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8616166	sra.base_sums.SRP186687_SRR8616166.ALL.bw	253J	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8616167	sra.base_sums.SRP186687_SRR8616167.ALL.bw	253J-BV	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8616168	sra.base_sums.SRP186687_SRR8616168.ALL.bw	23132/87	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616169	sra.base_sums.SRP186687_SRR8616169.ALL.bw	22Rv1	primary	Caucasian	carcinoma
+SRR8616170	sra.base_sums.SRP186687_SRR8616170.ALL.bw	639-V	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8616171	sra.base_sums.SRP186687_SRR8616171.ALL.bw	59M	metastasis	Caucasian	carcinoma
+SRR8616172	sra.base_sums.SRP186687_SRR8616172.ALL.bw	5637	primary	Asian	carcinoma
+SRR8616173	sra.base_sums.SRP186687_SRR8616173.ALL.bw	42-MG-BA	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8616174	sra.base_sums.SRP186687_SRR8616174.ALL.bw	HCC1954	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616175	sra.base_sums.SRP186687_SRR8616175.ALL.bw	HCC202	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616176	sra.base_sums.SRP186687_SRR8616176.ALL.bw	HCC-15	primary	African_american	carcinoma (squamous_cell_carcinoma)
+SRR8616177	sra.base_sums.SRP186687_SRR8616177.ALL.bw	HCC1806	primary	African_american	carcinoma (ductal_carcinoma, squamous_cell_carcinoma)
+SRR8616178	sra.base_sums.SRP186687_SRR8616178.ALL.bw	HCC-1833	primary	African_american	carcinoma (adenocarcinoma)
+SRR8616179	sra.base_sums.SRP186687_SRR8616179.ALL.bw	HCC1937	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616180	sra.base_sums.SRP186687_SRR8616180.ALL.bw	HCC1500	primary	African_american	carcinoma (ductal_carcinoma)
+SRR8616181	sra.base_sums.SRP186687_SRR8616181.ALL.bw	HCC1569	primary	African_american	carcinoma (metaplastic_carcinoma)
+SRR8616182	sra.base_sums.SRP186687_SRR8616182.ALL.bw	HCC-1588	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616183	sra.base_sums.SRP186687_SRR8616183.ALL.bw	HCC1599	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616184	sra.base_sums.SRP186687_SRR8616184.ALL.bw	Sq-1	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8616185	sra.base_sums.SRP186687_SRR8616185.ALL.bw	LoVo	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8616186	sra.base_sums.SRP186687_SRR8616186.ALL.bw	LOX IMVI	primary	Caucasian	malignant_melanoma
+SRR8616187	sra.base_sums.SRP186687_SRR8616187.ALL.bw	NCI-H1563	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616188	sra.base_sums.SRP186687_SRR8616188.ALL.bw	NCI-H146	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616189	sra.base_sums.SRP186687_SRR8616189.ALL.bw	NCI-H1573	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8616190	sra.base_sums.SRP186687_SRR8616190.ALL.bw	NCI-H1568	metastasis	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8616191	sra.base_sums.SRP186687_SRR8616191.ALL.bw	NCI-H1618	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8616192	sra.base_sums.SRP186687_SRR8616192.ALL.bw	NCI-H1581	primary	Caucasian	carcinoma (large_cell_carcinoma)
+SRR8616193	sra.base_sums.SRP186687_SRR8616193.ALL.bw	CA46	metastasis	Asian	lymphoid_neoplasm (Burkitt_lymphoma)
+SRR8616194	sra.base_sums.SRP186687_SRR8616194.ALL.bw	CACO2;CACO2;CaCo-2	NA	NA	NA
+SRR8616195	sra.base_sums.SRP186687_SRR8616195.ALL.bw	BT-474	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616196	sra.base_sums.SRP186687_SRR8616196.ALL.bw	BT-483	primary	Caucasian	carcinoma (ductal_carcinoma, medullary)
+SRR8616197	sra.base_sums.SRP186687_SRR8616197.ALL.bw	BT-549	primary	Caucasian	carcinoma (ductal_carcinoma, papillary)
+SRR8616198	sra.base_sums.SRP186687_SRR8616198.ALL.bw	BV-173	primary	Caucasian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8616199	sra.base_sums.SRP186687_SRR8616199.ALL.bw	BxPC-3	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616200	sra.base_sums.SRP186687_SRR8616200.ALL.bw	C2BBe1	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616201	sra.base_sums.SRP186687_SRR8616201.ALL.bw	C32	primary	Caucasian	malignant_melanoma
+SRR8616202	sra.base_sums.SRP186687_SRR8616202.ALL.bw	C8166	NA	NA	NA
+SRR8616203	sra.base_sums.SRP186687_SRR8616203.ALL.bw	Hs 172.T	primary	Caucasian	carcinoma
+SRR8616204	sra.base_sums.SRP186687_SRR8616204.ALL.bw	Hs 229.T	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616205	sra.base_sums.SRP186687_SRR8616205.ALL.bw	HOP-62	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8616206	sra.base_sums.SRP186687_SRR8616206.ALL.bw	HOP-92	primary	Caucasian	carcinoma (large_cell_carcinoma)
+SRR8616207	sra.base_sums.SRP186687_SRR8616207.ALL.bw	HMEL	NA	African_american	other (immortalized_epithelial)
+SRR8616208	sra.base_sums.SRP186687_SRR8616208.ALL.bw	HNT-34	NA	NA	NA
+SRR8616209	sra.base_sums.SRP186687_SRR8616209.ALL.bw	HPAF-II	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616210	sra.base_sums.SRP186687_SRR8616210.ALL.bw	HPB-ALL	primary	Asian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8616211	sra.base_sums.SRP186687_SRR8616211.ALL.bw	HOS	primary	Caucasian	osteosarcoma
+SRR8616212	sra.base_sums.SRP186687_SRR8616212.ALL.bw	HPAC	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8616213	sra.base_sums.SRP186687_SRR8616213.ALL.bw	EWS502	NA	Caucasian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8616214	sra.base_sums.SRP186687_SRR8616214.ALL.bw	EW8	NA	Caucasian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8616215	sra.base_sums.SRP186687_SRR8616215.ALL.bw	FaDu	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616216	sra.base_sums.SRP186687_SRR8616216.ALL.bw	F-36P	metastasis	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M6)
+SRR8616217	sra.base_sums.SRP186687_SRR8616217.ALL.bw	EPLC-272H	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8616218	sra.base_sums.SRP186687_SRR8616218.ALL.bw	EOL-1	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5)
+SRR8616219	sra.base_sums.SRP186687_SRR8616219.ALL.bw	ESS-1	primary	Caucasian	carcinoma (carcinosarcoma-malignant_mesodermal_mixed_tumour)
+SRR8616220	sra.base_sums.SRP186687_SRR8616220.ALL.bw	ES-2	primary	Caucasian	carcinoma (clear_cell_carcinoma)
+SRR8615222	sra.base_sums.SRP186687_SRR8615222.ALL.bw	TE-15	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615223	sra.base_sums.SRP186687_SRR8615223.ALL.bw	OCIMY5	NA	NA	NA
+SRR8615224	sra.base_sums.SRP186687_SRR8615224.ALL.bw	OCI-MY7	NA	NA	NA
+SRR8615225	sra.base_sums.SRP186687_SRR8615225.ALL.bw	OCUM-1	primary	Asian	carcinoma (diffuse_adenocarcinoma)
+SRR8615226	sra.base_sums.SRP186687_SRR8615226.ALL.bw	OE19	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615227	sra.base_sums.SRP186687_SRR8615227.ALL.bw	OE21	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615229	sra.base_sums.SRP186687_SRR8615229.ALL.bw	OELE	NA	Caucasian	other (immortalized_epithelial)
+SRR8615230	sra.base_sums.SRP186687_SRR8615230.ALL.bw	ONCO-DG-1	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615231	sra.base_sums.SRP186687_SRR8615231.ALL.bw	MES-SA	primary	Caucasian	sarcoma
+SRR8615232	sra.base_sums.SRP186687_SRR8615232.ALL.bw	MEL-JUSO	primary	Caucasian	malignant_melanoma
+SRR8615233	sra.base_sums.SRP186687_SRR8615233.ALL.bw	MEL-HO	primary	Caucasian	malignant_melanoma
+SRR8615234	sra.base_sums.SRP186687_SRR8615234.ALL.bw	MEG-01	primary	Asian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8615235	sra.base_sums.SRP186687_SRR8615235.ALL.bw	MFE-319	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615236	sra.base_sums.SRP186687_SRR8615236.ALL.bw	MFE-296	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615237	sra.base_sums.SRP186687_SRR8615237.ALL.bw	MFE-280	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615238	sra.base_sums.SRP186687_SRR8615238.ALL.bw	MeWo	metastasis	Caucasian	malignant_melanoma
+SRR8615239	sra.base_sums.SRP186687_SRR8615239.ALL.bw	MHH-CALL-2	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615240	sra.base_sums.SRP186687_SRR8615240.ALL.bw	MG-63	primary	Caucasian	osteosarcoma
+SRR8615241	sra.base_sums.SRP186687_SRR8615241.ALL.bw	Panc 02.13	primary	Caucasian	carcinoma
+SRR8615242	sra.base_sums.SRP186687_SRR8615242.ALL.bw	OCI-AML3	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M4)
+SRR8615243	sra.base_sums.SRP186687_SRR8615243.ALL.bw	OAW28	primary	Caucasian	carcinoma
+SRR8615244	sra.base_sums.SRP186687_SRR8615244.ALL.bw	NUGC-4	metastasis	Asian	carcinoma (signet_ring_adenocarcinoma)
+SRR8615245	sra.base_sums.SRP186687_SRR8615245.ALL.bw	SW 1271	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615246	sra.base_sums.SRP186687_SRR8615246.ALL.bw	Capan-2	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615247	sra.base_sums.SRP186687_SRR8615247.ALL.bw	Capan-1	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615248	sra.base_sums.SRP186687_SRR8615248.ALL.bw	CCF-STTG1	primary	Caucasian	glioma (astrocytoma)
+SRR8615249	sra.base_sums.SRP186687_SRR8615249.ALL.bw	CAS-1	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615250	sra.base_sums.SRP186687_SRR8615250.ALL.bw	CFPAC-1	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615251	sra.base_sums.SRP186687_SRR8615251.ALL.bw	CCK-81	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615252	sra.base_sums.SRP186687_SRR8615252.ALL.bw	NCI-H2073	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615253	sra.base_sums.SRP186687_SRR8615253.ALL.bw	NCI-H2066	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615254	sra.base_sums.SRP186687_SRR8615254.ALL.bw	NCI-H2052	metastasis	Caucasian	mesothelioma
+SRR8615255	sra.base_sums.SRP186687_SRR8615255.ALL.bw	NCI-H2030	metastasis	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615256	sra.base_sums.SRP186687_SRR8615256.ALL.bw	NCI-H2029	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615257	sra.base_sums.SRP186687_SRR8615257.ALL.bw	NCI-H2023	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615258	sra.base_sums.SRP186687_SRR8615258.ALL.bw	NCI-H2009	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615259	sra.base_sums.SRP186687_SRR8615259.ALL.bw	NCI-H2004 RT	NA	NA	NA
+SRR8615260	sra.base_sums.SRP186687_SRR8615260.ALL.bw	NCI-H1975	primary	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615261	sra.base_sums.SRP186687_SRR8615261.ALL.bw	NCI-H196	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615262	sra.base_sums.SRP186687_SRR8615262.ALL.bw	OCI-M1	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M6)
+SRR8615263	sra.base_sums.SRP186687_SRR8615263.ALL.bw	OCI-LY3	primary	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615264	sra.base_sums.SRP186687_SRR8615264.ALL.bw	CAL-51	metastasis	Caucasian	carcinoma
+SRR8615265	sra.base_sums.SRP186687_SRR8615265.ALL.bw	CAL-33	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615266	sra.base_sums.SRP186687_SRR8615266.ALL.bw	CAL-29	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8615267	sra.base_sums.SRP186687_SRR8615267.ALL.bw	CAL 27	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615268	sra.base_sums.SRP186687_SRR8615268.ALL.bw	CAL-148	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615269	sra.base_sums.SRP186687_SRR8615269.ALL.bw	CAL-12T	primary	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615270	sra.base_sums.SRP186687_SRR8615270.ALL.bw	CAL-120	metastasis	Caucasian	carcinoma
+SRR8615271	sra.base_sums.SRP186687_SRR8615271.ALL.bw	Caki-2	primary	Caucasian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615272	sra.base_sums.SRP186687_SRR8615272.ALL.bw	Caki-1	metastasis	Caucasian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615273	sra.base_sums.SRP186687_SRR8615273.ALL.bw	CADO-ES1	metastasis	Asian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8615274	sra.base_sums.SRP186687_SRR8615274.ALL.bw	EC-GI-10	primary	Asian	carcinoma
+SRR8615275	sra.base_sums.SRP186687_SRR8615275.ALL.bw	HEC-1-A	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615276	sra.base_sums.SRP186687_SRR8615276.ALL.bw	HEC-151	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615277	sra.base_sums.SRP186687_SRR8615277.ALL.bw	HEC-108	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615278	sra.base_sums.SRP186687_SRR8615278.ALL.bw	HDQ-P1	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615279	sra.base_sums.SRP186687_SRR8615279.ALL.bw	HD-MY-Z	metastasis	Caucasian	lymphoid_neoplasm (Hodgkin_lymphoma)
+SRR8615280	sra.base_sums.SRP186687_SRR8615280.ALL.bw	HDLM-2	metastasis	Caucasian	lymphoid_neoplasm (Hodgkin_lymphoma)
+SRR8615281	sra.base_sums.SRP186687_SRR8615281.ALL.bw	HCT-15	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615290	sra.base_sums.SRP186687_SRR8615290.ALL.bw	EFO-21	metastasis	Caucasian	carcinoma (serous_carcinoma)
+SRR8615291	sra.base_sums.SRP186687_SRR8615291.ALL.bw	EFE-184	metastasis	Caucasian	carcinoma
+SRR8615292	sra.base_sums.SRP186687_SRR8615292.ALL.bw	EFM-192A	metastasis	Caucasian	carcinoma
+SRR8615293	sra.base_sums.SRP186687_SRR8615293.ALL.bw	EM-2	primary	Caucasian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8615294	sra.base_sums.SRP186687_SRR8615294.ALL.bw	EN	primary	Asian	carcinoma
+SRR8615296	sra.base_sums.SRP186687_SRR8615296.ALL.bw	PK-1	primary	Asian	carcinoma
+SRR8615298	sra.base_sums.SRP186687_SRR8615298.ALL.bw	PE/CA-PJ41 (clone D2)	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615299	sra.base_sums.SRP186687_SRR8615299.ALL.bw	PE/CA-PJ34 (clone C12)	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615300	sra.base_sums.SRP186687_SRR8615300.ALL.bw	DU 145	metastasis	Caucasian	carcinoma
+SRR8618300	sra.base_sums.SRP186687_SRR8618300.ALL.bw	VM-CUB1	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8615301	sra.base_sums.SRP186687_SRR8615301.ALL.bw	PC9	NA	NA	NA
+SRR8618301	sra.base_sums.SRP186687_SRR8618301.ALL.bw	ZR-75-1	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615303	sra.base_sums.SRP186687_SRR8615303.ALL.bw	PF-382	metastasis	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8615304	sra.base_sums.SRP186687_SRR8615304.ALL.bw	PEER	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8618304	sra.base_sums.SRP186687_SRR8618304.ALL.bw	ZR-75-30	metastasis	African_american	carcinoma (ductal_carcinoma)
+SRR8615305	sra.base_sums.SRP186687_SRR8615305.ALL.bw	PE/CA-PJ49	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615306	sra.base_sums.SRP186687_SRR8615306.ALL.bw	SNU-308	primary	Asian	carcinoma
+SRR8618306	sra.base_sums.SRP186687_SRR8618306.ALL.bw	YAPC	metastasis	Asian	carcinoma
+SRR8615307	sra.base_sums.SRP186687_SRR8615307.ALL.bw	SNU-283	primary	Asian	carcinoma
+SRR8618307	sra.base_sums.SRP186687_SRR8618307.ALL.bw	WSU-DLCL2	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615309	sra.base_sums.SRP186687_SRR8615309.ALL.bw	SNU-216	metastasis	Asian	carcinoma
+SRR8618309	sra.base_sums.SRP186687_SRR8618309.ALL.bw	YD-10B	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615311	sra.base_sums.SRP186687_SRR8615311.ALL.bw	SNU-387	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615312	sra.base_sums.SRP186687_SRR8615312.ALL.bw	SNU-349	primary	Asian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615313	sra.base_sums.SRP186687_SRR8615313.ALL.bw	SNU-324	primary	Asian	carcinoma
+SRR8615314	sra.base_sums.SRP186687_SRR8615314.ALL.bw	NALM-1	primary	African_american	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8615316	sra.base_sums.SRP186687_SRR8615316.ALL.bw	SNU-410	primary	Asian	carcinoma
+SRR8615317	sra.base_sums.SRP186687_SRR8615317.ALL.bw	SNU-407	metastasis	Asian	carcinoma
+SRR8615320	sra.base_sums.SRP186687_SRR8615320.ALL.bw	Hs 766T	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615321	sra.base_sums.SRP186687_SRR8615321.ALL.bw	Hs 742.T	primary	Caucasian	carcinoma
+SRR8615322	sra.base_sums.SRP186687_SRR8615322.ALL.bw	Hs 746T	metastasis	Caucasian	carcinoma
+SRR8615323	sra.base_sums.SRP186687_SRR8615323.ALL.bw	Hs 822.T	primary	Caucasian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8615324	sra.base_sums.SRP186687_SRR8615324.ALL.bw	Hs 834.T	metastasis	Caucasian	malignant_melanoma
+SRR8615325	sra.base_sums.SRP186687_SRR8615325.ALL.bw	Hs 819.T	primary	Caucasian	chondrosarcoma
+SRR8615326	sra.base_sums.SRP186687_SRR8615326.ALL.bw	Hs 821.T	primary	Caucasian	giant_cell_tumour
+SRR8615327	sra.base_sums.SRP186687_SRR8615327.ALL.bw	Hs 839.T	primary	Caucasian	malignant_melanoma
+SRR8615328	sra.base_sums.SRP186687_SRR8615328.ALL.bw	Hs 840.T	benign_neoplasia	Caucasian	other (papilloma)
+SRR8615329	sra.base_sums.SRP186687_SRR8615329.ALL.bw	NCI-H1105	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615330	sra.base_sums.SRP186687_SRR8615330.ALL.bw	SF767	NA	Caucasian	glioma (astrocytoma_Grade_III-IV)
+SRR8615331	sra.base_sums.SRP186687_SRR8615331.ALL.bw	NCI-H1092	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615332	sra.base_sums.SRP186687_SRR8615332.ALL.bw	UOK101	NA	Caucasian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615333	sra.base_sums.SRP186687_SRR8615333.ALL.bw	UO-31	primary	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8615334	sra.base_sums.SRP186687_SRR8615334.ALL.bw	UM-UC-3	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8615335	sra.base_sums.SRP186687_SRR8615335.ALL.bw	UM-UC-1	primary	African_american	carcinoma (transitional_cell_carcinoma)
+SRR8615336	sra.base_sums.SRP186687_SRR8615336.ALL.bw	U-BLC1	primary	African_american	carcinoma (transitional_cell_carcinoma)
+SRR8615337	sra.base_sums.SRP186687_SRR8615337.ALL.bw	UACC-893	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615338	sra.base_sums.SRP186687_SRR8615338.ALL.bw	UACC-812	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615339	sra.base_sums.SRP186687_SRR8615339.ALL.bw	UACC-62	primary	Caucasian	malignant_melanoma
+SRR8615340	sra.base_sums.SRP186687_SRR8615340.ALL.bw	UACC-257	primary	Caucasian	malignant_melanoma
+SRR8615341	sra.base_sums.SRP186687_SRR8615341.ALL.bw	NCI-H1048	metastasis	African_american	carcinoma (small_cell_carcinoma)
+SRR8615342	sra.base_sums.SRP186687_SRR8615342.ALL.bw	NCC-StC-K140	primary	Asian	carcinoma
+SRR8615343	sra.base_sums.SRP186687_SRR8615343.ALL.bw	NB-4	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M3)
+SRR8615344	sra.base_sums.SRP186687_SRR8615344.ALL.bw	NB-1	metastasis	Asian	neuroblastoma
+SRR8615345	sra.base_sums.SRP186687_SRR8615345.ALL.bw	NAMALWA	primary	African_american	lymphoid_neoplasm (Burkitt_lymphoma)
+SRR8615346	sra.base_sums.SRP186687_SRR8615346.ALL.bw	NALM-6	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615347	sra.base_sums.SRP186687_SRR8615347.ALL.bw	KMS-26	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615348	sra.base_sums.SRP186687_SRR8615348.ALL.bw	KMS-27	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615349	sra.base_sums.SRP186687_SRR8615349.ALL.bw	KMS-20	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615350	sra.base_sums.SRP186687_SRR8615350.ALL.bw	KMS-21BM	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615351	sra.base_sums.SRP186687_SRR8615351.ALL.bw	KMS-12-BM	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615352	sra.base_sums.SRP186687_SRR8615352.ALL.bw	KMS-18	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615353	sra.base_sums.SRP186687_SRR8615353.ALL.bw	KMRC-3	primary	Asian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615354	sra.base_sums.SRP186687_SRR8615354.ALL.bw	KMS-11	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615355	sra.base_sums.SRP186687_SRR8615355.ALL.bw	KMRC-20	primary	Asian	carcinoma (renal_cell_carcinoma)
+SRR8615356	sra.base_sums.SRP186687_SRR8615356.ALL.bw	KMRC-2	primary	Asian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615357	sra.base_sums.SRP186687_SRR8615357.ALL.bw	KELLY	primary	Caucasian	neuroblastoma
+SRR8615358	sra.base_sums.SRP186687_SRR8615358.ALL.bw	KE-97	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615359	sra.base_sums.SRP186687_SRR8615359.ALL.bw	PA-TU-8988T	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615360	sra.base_sums.SRP186687_SRR8615360.ALL.bw	KASUMI-2	primary	Asian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia, L2)
+SRR8615361	sra.base_sums.SRP186687_SRR8615361.ALL.bw	KASUMI-1	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M2)
+SRR8615362	sra.base_sums.SRP186687_SRR8615362.ALL.bw	KATO III	metastasis	Asian	carcinoma (adenocarcinoma)
+SRR8615363	sra.base_sums.SRP186687_SRR8615363.ALL.bw	Kasumi-6	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M2)
+SRR8615364	sra.base_sums.SRP186687_SRR8615364.ALL.bw	KD	NA	NA	NA
+SRR8615365	sra.base_sums.SRP186687_SRR8615365.ALL.bw	KCL-22	metastasis	Asian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8615366	sra.base_sums.SRP186687_SRR8615366.ALL.bw	KE-39	metastasis	Asian	carcinoma
+SRR8615367	sra.base_sums.SRP186687_SRR8615367.ALL.bw	KE-37	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8615368	sra.base_sums.SRP186687_SRR8615368.ALL.bw	SU-DHL-5	primary	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615369	sra.base_sums.SRP186687_SRR8615369.ALL.bw	SU-DHL-6	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615370	sra.base_sums.SRP186687_SRR8615370.ALL.bw	Panc 05.04	primary	Caucasian	carcinoma
+SRR8615371	sra.base_sums.SRP186687_SRR8615371.ALL.bw	Panc 08.13	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615372	sra.base_sums.SRP186687_SRR8615372.ALL.bw	SR-786	metastasis	Caucasian	lymphoid_neoplasm (anaplastic_large_cell_lymphoma)
+SRR8615373	sra.base_sums.SRP186687_SRR8615373.ALL.bw	ST486	metastasis	Caucasian	lymphoid_neoplasm (Burkitt_lymphoma)
+SRR8615374	sra.base_sums.SRP186687_SRR8615374.ALL.bw	STM9101	NA	NA	NA
+SRR8615375	sra.base_sums.SRP186687_SRR8615375.ALL.bw	SU.86.86	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615376	sra.base_sums.SRP186687_SRR8615376.ALL.bw	SU-DHL-10	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615377	sra.base_sums.SRP186687_SRR8615377.ALL.bw	Panc 10.05	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615378	sra.base_sums.SRP186687_SRR8615378.ALL.bw	SU-DHL-4	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615379	sra.base_sums.SRP186687_SRR8615379.ALL.bw	GSS	metastasis	Asian	carcinoma (adenocarcinoma)
+SRR8615380	sra.base_sums.SRP186687_SRR8615380.ALL.bw	GRANTA-519	primary	Caucasian	lymphoid_neoplasm (mantle_cell_lymphoma)
+SRR8615381	sra.base_sums.SRP186687_SRR8615381.ALL.bw	GP2d	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615382	sra.base_sums.SRP186687_SRR8615382.ALL.bw	GOS-3	primary	Caucasian	glioma (astrocytoma)
+SRR8615383	sra.base_sums.SRP186687_SRR8615383.ALL.bw	GMS-10	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615384	sra.base_sums.SRP186687_SRR8615384.ALL.bw	GI-1	primary	Asian	glioma (gliosarcoma)
+SRR8615385	sra.base_sums.SRP186687_SRR8615385.ALL.bw	GDM-1	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M4)
+SRR8615386	sra.base_sums.SRP186687_SRR8615386.ALL.bw	GCT	metastasis	Caucasian	malignant_fibrous_histiocytoma-pleomorphic_sarcoma
+SRR8615387	sra.base_sums.SRP186687_SRR8615387.ALL.bw	Li-7	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615388	sra.base_sums.SRP186687_SRR8615388.ALL.bw	H4	primary	Caucasian	glioma
+SRR8615389	sra.base_sums.SRP186687_SRR8615389.ALL.bw	GSU	metastasis	Asian	carcinoma (adenocarcinoma)
+SRR8615390	sra.base_sums.SRP186687_SRR8615390.ALL.bw	TE-8	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615391	sra.base_sums.SRP186687_SRR8615391.ALL.bw	KYM-1	primary	Asian	rhabdomyosarcoma
+SRR8615392	sra.base_sums.SRP186687_SRR8615392.ALL.bw	LS513	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615393	sra.base_sums.SRP186687_SRR8615393.ALL.bw	LS411N	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615394	sra.base_sums.SRP186687_SRR8615394.ALL.bw	LU99	metastasis	Asian	carcinoma (large_cell_carcinoma)
+SRR8615395	sra.base_sums.SRP186687_SRR8615395.ALL.bw	LU65	primary	Asian	carcinoma (non_small_cell_carcinoma)
+SRR8615396	sra.base_sums.SRP186687_SRR8615396.ALL.bw	LS1034	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615397	sra.base_sums.SRP186687_SRR8615397.ALL.bw	LP-1	primary	Caucasian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615398	sra.base_sums.SRP186687_SRR8615398.ALL.bw	LS 180	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615399	sra.base_sums.SRP186687_SRR8615399.ALL.bw	LS123	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615400	sra.base_sums.SRP186687_SRR8615400.ALL.bw	LN-340	NA	Caucasian	glioma (astrocytoma_Grade_IV)
+SRR8615401	sra.base_sums.SRP186687_SRR8615401.ALL.bw	LXF-289	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615402	sra.base_sums.SRP186687_SRR8615402.ALL.bw	LUDLU-1	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615403	sra.base_sums.SRP186687_SRR8615403.ALL.bw	LN-319	NA	Caucasian	glioma (astrocytoma_Grade_III)
+SRR8615404	sra.base_sums.SRP186687_SRR8615404.ALL.bw	AGS	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615405	sra.base_sums.SRP186687_SRR8615405.ALL.bw	ACHN	metastasis	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8615406	sra.base_sums.SRP186687_SRR8615406.ALL.bw	ACC-MESO-1	metastasis	Asian	mesothelioma
+SRR8615407	sra.base_sums.SRP186687_SRR8615407.ALL.bw	ABC-1	primary	Asian	carcinoma (non_small_cell_carcinoma)
+SRR8615408	sra.base_sums.SRP186687_SRR8615408.ALL.bw	AMO-1	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615409	sra.base_sums.SRP186687_SRR8615409.ALL.bw	AML-193	primary	African_american	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5)
+SRR8615410	sra.base_sums.SRP186687_SRR8615410.ALL.bw	AM-38	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615411	sra.base_sums.SRP186687_SRR8615411.ALL.bw	ALL-SIL	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8615412	sra.base_sums.SRP186687_SRR8615412.ALL.bw	AsPC-1	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615413	sra.base_sums.SRP186687_SRR8615413.ALL.bw	AN3 CA	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615414	sra.base_sums.SRP186687_SRR8615414.ALL.bw	Hs 294T	metastasis	Caucasian	malignant_melanoma
+SRR8615415	sra.base_sums.SRP186687_SRR8615415.ALL.bw	Hs 281.T	primary	Caucasian	carcinoma
+SRR8615416	sra.base_sums.SRP186687_SRR8615416.ALL.bw	Hs 274.T	primary	Caucasian	carcinoma
+SRR8615417	sra.base_sums.SRP186687_SRR8615417.ALL.bw	Hs 255.T	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615418	sra.base_sums.SRP186687_SRR8615418.ALL.bw	Hs 606.T	primary	Caucasian	carcinoma
+SRR8615419	sra.base_sums.SRP186687_SRR8615419.ALL.bw	Hs 600.T	primary	Caucasian	malignant_melanoma
+SRR8615420	sra.base_sums.SRP186687_SRR8615420.ALL.bw	Hs 578T	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615421	sra.base_sums.SRP186687_SRR8615421.ALL.bw	Hs 343.T	primary	Caucasian	carcinoma
+SRR8615422	sra.base_sums.SRP186687_SRR8615422.ALL.bw	COR-L24	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615423	sra.base_sums.SRP186687_SRR8615423.ALL.bw	COR-L279	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615424	sra.base_sums.SRP186687_SRR8615424.ALL.bw	Hs 616.T	primary	Caucasian	lymphoid_neoplasm (Hodgkin_lymphoma)
+SRR8615425	sra.base_sums.SRP186687_SRR8615425.ALL.bw	COR-L23	metastasis	Caucasian	carcinoma (large_cell_carcinoma)
+SRR8615426	sra.base_sums.SRP186687_SRR8615426.ALL.bw	COR-L88	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615427	sra.base_sums.SRP186687_SRR8615427.ALL.bw	COR-L95	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615428	sra.base_sums.SRP186687_SRR8615428.ALL.bw	COR-L311	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615429	sra.base_sums.SRP186687_SRR8615429.ALL.bw	COR-L47	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615430	sra.base_sums.SRP186687_SRR8615430.ALL.bw	RVH-421	metastasis	Caucasian	malignant_melanoma
+SRR8615431	sra.base_sums.SRP186687_SRR8615431.ALL.bw	RT4	primary	Caucasian	carcinoma (transitional_cell_carcinoma, papillary_transitional_cell_carcinoma)
+SRR8615432	sra.base_sums.SRP186687_SRR8615432.ALL.bw	RT-112	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8615433	sra.base_sums.SRP186687_SRR8615433.ALL.bw	RS-5	metastasis	Caucasian	mesothelioma
+SRR8615434	sra.base_sums.SRP186687_SRR8615434.ALL.bw	RS4;11	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615435	sra.base_sums.SRP186687_SRR8615435.ALL.bw	RPMI-8402	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8615436	sra.base_sums.SRP186687_SRR8615436.ALL.bw	Panc 03.27	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615437	sra.base_sums.SRP186687_SRR8615437.ALL.bw	RPMI-7951	metastasis	Caucasian	malignant_melanoma
+SRR8615438	sra.base_sums.SRP186687_SRR8615438.ALL.bw	RMUG-S	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615439	sra.base_sums.SRP186687_SRR8615439.ALL.bw	RMG-I	primary	Asian	carcinoma (clear_cell_carcinoma)
+SRR8615440	sra.base_sums.SRP186687_SRR8615440.ALL.bw	NU-DHL-1	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615441	sra.base_sums.SRP186687_SRR8615441.ALL.bw	NU-DUL-1	metastasis	Caucasian	lymphoid_neoplasm (B_cell_lymphoma_unspecified)
+SRR8615442	sra.base_sums.SRP186687_SRR8615442.ALL.bw	NMC-G1	primary	Asian	glioma
+SRR8615443	sra.base_sums.SRP186687_SRR8615443.ALL.bw	NOMO-1	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5)
+SRR8615444	sra.base_sums.SRP186687_SRR8615444.ALL.bw	NHAHTDD	NA	NA	NA
+SRR8615445	sra.base_sums.SRP186687_SRR8615445.ALL.bw	NIH:OVCAR-3	metastasis	Caucasian	carcinoma
+SRR8615446	sra.base_sums.SRP186687_SRR8615446.ALL.bw	NCO2	primary	Asian	haematopoietic_neoplasm (chronic_myeloid_leukaemia)
+SRR8615447	sra.base_sums.SRP186687_SRR8615447.ALL.bw	NH-6	primary	Asian	neuroblastoma
+SRR8615448	sra.base_sums.SRP186687_SRR8615448.ALL.bw	SU-DHL-1	metastasis	Caucasian	lymphoid_neoplasm (anaplastic_large_cell_lymphoma)
+SRR8615449	sra.base_sums.SRP186687_SRR8615449.ALL.bw	NUGC-2	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615450	sra.base_sums.SRP186687_SRR8615450.ALL.bw	NUGC-3	primary	Asian	carcinoma
+SRR8615451	sra.base_sums.SRP186687_SRR8615451.ALL.bw	HCC-56	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615452	sra.base_sums.SRP186687_SRR8615452.ALL.bw	HCC70	primary	African_american	carcinoma (ductal_carcinoma)
+SRR8615453	sra.base_sums.SRP186687_SRR8615453.ALL.bw	HCC461	NA	NA	NA
+SRR8615454	sra.base_sums.SRP186687_SRR8615454.ALL.bw	HCC515	NA	NA	NA
+SRR8615455	sra.base_sums.SRP186687_SRR8615455.ALL.bw	HCC4006	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615456	sra.base_sums.SRP186687_SRR8615456.ALL.bw	HCC-44	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615457	sra.base_sums.SRP186687_SRR8615457.ALL.bw	HCC-366	primary	Caucasian	carcinoma (mixed_adenosquamous_carcinoma)
+SRR8615458	sra.base_sums.SRP186687_SRR8615458.ALL.bw	HCC38	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615459	sra.base_sums.SRP186687_SRR8615459.ALL.bw	SW620	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615460	sra.base_sums.SRP186687_SRR8615460.ALL.bw	HCC-78	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615461	sra.base_sums.SRP186687_SRR8615461.ALL.bw	HCC827 GR5	NA	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615462	sra.base_sums.SRP186687_SRR8615462.ALL.bw	NCI-H747	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615463	sra.base_sums.SRP186687_SRR8615463.ALL.bw	TE 441.T	primary	African_american	rhabdomyosarcoma
+SRR8615464	sra.base_sums.SRP186687_SRR8615464.ALL.bw	TE-1	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615465	sra.base_sums.SRP186687_SRR8615465.ALL.bw	NCI-H727	primary	Caucasian	carcinoid-endocrine_tumour
+SRR8615466	sra.base_sums.SRP186687_SRR8615466.ALL.bw	SNU-C5	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615467	sra.base_sums.SRP186687_SRR8615467.ALL.bw	TE-6	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615468	sra.base_sums.SRP186687_SRR8615468.ALL.bw	TE 617.T	primary	Caucasian	rhabdomyosarcoma
+SRR8615469	sra.base_sums.SRP186687_SRR8615469.ALL.bw	TE-5	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615470	sra.base_sums.SRP186687_SRR8615470.ALL.bw	TE-4	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615471	sra.base_sums.SRP186687_SRR8615471.ALL.bw	SNU-878	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615472	sra.base_sums.SRP186687_SRR8615472.ALL.bw	SNU-886	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615473	sra.base_sums.SRP186687_SRR8615473.ALL.bw	SNU-840	primary	Asian	carcinoma (Brenner_tumour)
+SRR8615475	sra.base_sums.SRP186687_SRR8615475.ALL.bw	SNU-C1	metastasis	Asian	carcinoma (adenocarcinoma)
+SRR8615476	sra.base_sums.SRP186687_SRR8615476.ALL.bw	SNU-C2A	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615477	sra.base_sums.SRP186687_SRR8615477.ALL.bw	SNU-899	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615478	sra.base_sums.SRP186687_SRR8615478.ALL.bw	SNU-8	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615479	sra.base_sums.SRP186687_SRR8615479.ALL.bw	L-1236	primary	Caucasian	lymphoid_neoplasm (Hodgkin_lymphoma)
+SRR8615480	sra.base_sums.SRP186687_SRR8615480.ALL.bw	L3.3	metastasis	African_american	carcinoma
+SRR8615481	sra.base_sums.SRP186687_SRR8615481.ALL.bw	KYSE-520	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615482	sra.base_sums.SRP186687_SRR8615482.ALL.bw	KYSE-70	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615483	sra.base_sums.SRP186687_SRR8615483.ALL.bw	JHH-1	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615484	sra.base_sums.SRP186687_SRR8615484.ALL.bw	JH-EsoAd1	NA	NA	carcinoma (barrett_associated_adenocarcinoma)
+SRR8615485	sra.base_sums.SRP186687_SRR8615485.ALL.bw	L-363	primary	Caucasian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615486	sra.base_sums.SRP186687_SRR8615486.ALL.bw	L-428	metastasis	Caucasian	lymphoid_neoplasm (Hodgkin_lymphoma)
+SRR8615487	sra.base_sums.SRP186687_SRR8615487.ALL.bw	IST-MES2	metastasis	Caucasian	mesothelioma
+SRR8615488	sra.base_sums.SRP186687_SRR8615488.ALL.bw	IST-MES1	primary	Caucasian	mesothelioma
+SRR8615489	sra.base_sums.SRP186687_SRR8615489.ALL.bw	JeKo-1	primary	Asian	lymphoid_neoplasm (mantle_cell_lymphoma)
+SRR8615490	sra.base_sums.SRP186687_SRR8615490.ALL.bw	J82	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8615491	sra.base_sums.SRP186687_SRR8615491.ALL.bw	IOMM-Lee	NA	Asian	meningioma
+SRR8615492	sra.base_sums.SRP186687_SRR8615492.ALL.bw	INA-6	NA	NA	NA
+SRR8615493	sra.base_sums.SRP186687_SRR8615493.ALL.bw	Ishikawa (Heraklio) 02 ER-	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615494	sra.base_sums.SRP186687_SRR8615494.ALL.bw	IPC-298	primary	Caucasian	malignant_melanoma
+SRR8615496	sra.base_sums.SRP186687_SRR8615496.ALL.bw	SKNO-1	NA	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia)
+SRR8615497	sra.base_sums.SRP186687_SRR8615497.ALL.bw	SK-N-MC	metastasis	Caucasian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8615498	sra.base_sums.SRP186687_SRR8615498.ALL.bw	NCI-H929	metastasis	Caucasian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615499	sra.base_sums.SRP186687_SRR8615499.ALL.bw	SKNEP1	NA	NA	NA
+SRR8615500	sra.base_sums.SRP186687_SRR8615500.ALL.bw	KYSE-510	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615501	sra.base_sums.SRP186687_SRR8615501.ALL.bw	SK-N-BE(2)	metastasis	Caucasian	neuroblastoma
+SRR8615502	sra.base_sums.SRP186687_SRR8615502.ALL.bw	SK-N-AS	primary	Caucasian	neuroblastoma
+SRR8615503	sra.base_sums.SRP186687_SRR8615503.ALL.bw	SK-MM-2	primary	Caucasian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615504	sra.base_sums.SRP186687_SRR8615504.ALL.bw	SW48	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615505	sra.base_sums.SRP186687_SRR8615505.ALL.bw	SK-OV-3	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615506	sra.base_sums.SRP186687_SRR8615506.ALL.bw	SK-N-SH	metastasis	Caucasian	neuroblastoma
+SRR8615507	sra.base_sums.SRP186687_SRR8615507.ALL.bw	Caov-3	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615508	sra.base_sums.SRP186687_SRR8615508.ALL.bw	Caov-4	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615509	sra.base_sums.SRP186687_SRR8615509.ALL.bw	OCI-LY-19	primary	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615512	sra.base_sums.SRP186687_SRR8615512.ALL.bw	OCI-AML2	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M4)
+SRR8615513	sra.base_sums.SRP186687_SRR8615513.ALL.bw	OC 314	metastasis	Caucasian	carcinoma (serous_carcinoma)
+SRR8615514	sra.base_sums.SRP186687_SRR8615514.ALL.bw	OAW42	metastasis	Caucasian	carcinoma
+SRR8615515	sra.base_sums.SRP186687_SRR8615515.ALL.bw	MKN-45	metastasis	Asian	carcinoma (diffuse_adenocarcinoma)
+SRR8615516	sra.base_sums.SRP186687_SRR8615516.ALL.bw	MKN74	metastasis	Asian	carcinoma (tubular_adenocarcinoma)
+SRR8615517	sra.base_sums.SRP186687_SRR8615517.ALL.bw	MJ	primary	Caucasian	lymphoid_neoplasm (mycosis_fungoides-Sezary_syndrome)
+SRR8615518	sra.base_sums.SRP186687_SRR8615518.ALL.bw	MKN1	metastasis	Asian	carcinoma (mixed_adenosquamous_carcinoma)
+SRR8615519	sra.base_sums.SRP186687_SRR8615519.ALL.bw	MIA PaCa-2	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615520	sra.base_sums.SRP186687_SRR8615520.ALL.bw	Mino	primary	Caucasian	lymphoid_neoplasm (mantle_cell_lymphoma)
+SRR8615521	sra.base_sums.SRP186687_SRR8615521.ALL.bw	MHH-ES-1	metastasis	Caucasian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8615526	sra.base_sums.SRP186687_SRR8615526.ALL.bw	CHP-126	primary	Caucasian	neuroblastoma
+SRR8615527	sra.base_sums.SRP186687_SRR8615527.ALL.bw	CAL-78	primary	Caucasian	chondrosarcoma (dedifferentiated)
+SRR8615531	sra.base_sums.SRP186687_SRR8615531.ALL.bw	Calu-6	primary	Caucasian	carcinoma (undifferentiated_carcinoma)
+SRR8615534	sra.base_sums.SRP186687_SRR8615534.ALL.bw	Calu-3	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615539	sra.base_sums.SRP186687_SRR8615539.ALL.bw	NCI-H2887	NA	NA	NA
+SRR8615540	sra.base_sums.SRP186687_SRR8615540.ALL.bw	NCI-H28	metastasis	African_american	mesothelioma
+SRR8615541	sra.base_sums.SRP186687_SRR8615541.ALL.bw	NCI-H2452	metastasis	Caucasian	mesothelioma
+SRR8615542	sra.base_sums.SRP186687_SRR8615542.ALL.bw	NCIH2882	NA	NA	NA
+SRR8615543	sra.base_sums.SRP186687_SRR8615543.ALL.bw	OPM-1	NA	NA	NA
+SRR8615544	sra.base_sums.SRP186687_SRR8615544.ALL.bw	LN-428	NA	Caucasian	glioma (astrocytoma_Grade_IV)
+SRR8615545	sra.base_sums.SRP186687_SRR8615545.ALL.bw	LN-443	NA	Caucasian	glioma (astrocytoma_Grade_IV)
+SRR8615546	sra.base_sums.SRP186687_SRR8615546.ALL.bw	LN-464	NA	Caucasian	glioma (astrocytoma_Grade_IV)
+SRR8615547	sra.base_sums.SRP186687_SRR8615547.ALL.bw	LNCaP clone FGC	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615548	sra.base_sums.SRP186687_SRR8615548.ALL.bw	LNZ308	NA	Caucasian	glioma (astrocytoma_Grade_IV)
+SRR8615549	sra.base_sums.SRP186687_SRR8615549.ALL.bw	Loucy	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8615550	sra.base_sums.SRP186687_SRR8615550.ALL.bw	LOU-NH91	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615551	sra.base_sums.SRP186687_SRR8615551.ALL.bw	JHUEM-7	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615552	sra.base_sums.SRP186687_SRR8615552.ALL.bw	JHUEM-3	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615553	sra.base_sums.SRP186687_SRR8615553.ALL.bw	JHUEM-2	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615554	sra.base_sums.SRP186687_SRR8615554.ALL.bw	JHUEM-1	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615555	sra.base_sums.SRP186687_SRR8615555.ALL.bw	JL-1	primary	Caucasian	mesothelioma
+SRR8615556	sra.base_sums.SRP186687_SRR8615556.ALL.bw	JK-1	primary	Asian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8615557	sra.base_sums.SRP186687_SRR8615557.ALL.bw	JJN-3	primary	Caucasian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615558	sra.base_sums.SRP186687_SRR8615558.ALL.bw	JIMT-1	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615559	sra.base_sums.SRP186687_SRR8615559.ALL.bw	JMSU-1	primary	Asian	carcinoma
+SRR8615560	sra.base_sums.SRP186687_SRR8615560.ALL.bw	JM1	primary	Caucasian	lymphoid_neoplasm (B_cell_lymphoma_unspecified)
+SRR8615561	sra.base_sums.SRP186687_SRR8615561.ALL.bw	SW 1573	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615562	sra.base_sums.SRP186687_SRR8615562.ALL.bw	SW-1710	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8615563	sra.base_sums.SRP186687_SRR8615563.ALL.bw	SW1417	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615564	sra.base_sums.SRP186687_SRR8615564.ALL.bw	SW1463	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615565	sra.base_sums.SRP186687_SRR8615565.ALL.bw	SNU-1196	primary	Asian	carcinoma
+SRR8615566	sra.base_sums.SRP186687_SRR8615566.ALL.bw	SNU-1105	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615567	sra.base_sums.SRP186687_SRR8615567.ALL.bw	SW 1783	primary	Caucasian	glioma (astrocytoma_Grade_III, anaplastic)
+SRR8615568	sra.base_sums.SRP186687_SRR8615568.ALL.bw	SW 1990	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615569	sra.base_sums.SRP186687_SRR8615569.ALL.bw	CAL-62	primary	Caucasian	carcinoma (anaplastic_carcinoma)
+SRR8615570	sra.base_sums.SRP186687_SRR8615570.ALL.bw	SNU-1066	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615571	sra.base_sums.SRP186687_SRR8615571.ALL.bw	SNU-1079	primary	Asian	carcinoma
+SRR8615572	sra.base_sums.SRP186687_SRR8615572.ALL.bw	SNU-1077	primary	Asian	carcinoma (carcinosarcoma-malignant_mesodermal_mixed_tumour)
+SRR8615573	sra.base_sums.SRP186687_SRR8615573.ALL.bw	SNU-1033	primary	Asian	carcinoma
+SRR8615574	sra.base_sums.SRP186687_SRR8615574.ALL.bw	SNG-M	metastasis	Asian	carcinoma (adenocarcinoma)
+SRR8615575	sra.base_sums.SRP186687_SRR8615575.ALL.bw	SNU-1041	primary	Asian	carcinoma
+SRR8615576	sra.base_sums.SRP186687_SRR8615576.ALL.bw	SNU-1040	primary	Asian	carcinoma
+SRR8615577	sra.base_sums.SRP186687_SRR8615577.ALL.bw	MDA-MB-453	metastasis	Caucasian	carcinoma
+SRR8615578	sra.base_sums.SRP186687_SRR8615578.ALL.bw	MDA-MB-468	metastasis	African_american	carcinoma
+SRR8615579	sra.base_sums.SRP186687_SRR8615579.ALL.bw	MDA PCa 2b	metastasis	African_american	carcinoma (adenocarcinoma)
+SRR8615580	sra.base_sums.SRP186687_SRR8615580.ALL.bw	MDST8	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615581	sra.base_sums.SRP186687_SRR8615581.ALL.bw	MDA-MB-361	metastasis	Caucasian	carcinoma
+SRR8615582	sra.base_sums.SRP186687_SRR8615582.ALL.bw	MDA-MB-415	metastasis	Caucasian	carcinoma
+SRR8615583	sra.base_sums.SRP186687_SRR8615583.ALL.bw	MDA-MB-435S	primary	Caucasian	malignant_melanoma
+SRR8615584	sra.base_sums.SRP186687_SRR8615584.ALL.bw	MDA-MB-436	metastasis	Caucasian	carcinoma
+SRR8615585	sra.base_sums.SRP186687_SRR8615585.ALL.bw	ME-1	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M4)
+SRR8615586	sra.base_sums.SRP186687_SRR8615586.ALL.bw	MEC-1	primary	Caucasian	lymphoid_neoplasm (chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma)
+SRR8615587	sra.base_sums.SRP186687_SRR8615587.ALL.bw	S-117	primary	Caucasian	sarcoma
+SRR8615588	sra.base_sums.SRP186687_SRR8615588.ALL.bw	HEC-50B	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615589	sra.base_sums.SRP186687_SRR8615589.ALL.bw	NCI-H1435	primary	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615590	sra.base_sums.SRP186687_SRR8615590.ALL.bw	RERF-LC-KJ	primary	Asian	carcinoma (non_small_cell_carcinoma)
+SRR8615591	sra.base_sums.SRP186687_SRR8615591.ALL.bw	RERF-LC-AI	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615592	sra.base_sums.SRP186687_SRR8615592.ALL.bw	RD-ES	primary	Caucasian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8615593	sra.base_sums.SRP186687_SRR8615593.ALL.bw	RCM-1	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615594	sra.base_sums.SRP186687_SRR8615594.ALL.bw	REC-1	primary	Caucasian	lymphoid_neoplasm (mantle_cell_lymphoma)
+SRR8615595	sra.base_sums.SRP186687_SRR8615595.ALL.bw	RD	primary	Caucasian	rhabdomyosarcoma (embryonal)
+SRR8615596	sra.base_sums.SRP186687_SRR8615596.ALL.bw	RERF-GC-1B	metastasis	Asian	carcinoma
+SRR8615597	sra.base_sums.SRP186687_SRR8615597.ALL.bw	Reh	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615598	sra.base_sums.SRP186687_SRR8615598.ALL.bw	RERF-LC-Ad2	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615599	sra.base_sums.SRP186687_SRR8615599.ALL.bw	RERF-LC-Ad1	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615600	sra.base_sums.SRP186687_SRR8615600.ALL.bw	NCI-H1155	metastasis	Caucasian	carcinoma (large_cell_carcinoma)
+SRR8615601	sra.base_sums.SRP186687_SRR8615601.ALL.bw	NCI-H2081	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615602	sra.base_sums.SRP186687_SRR8615602.ALL.bw	NCI-H1963	primary	African_american	carcinoma (small_cell_carcinoma)
+SRR8615603	sra.base_sums.SRP186687_SRR8615603.ALL.bw	NCI-H1944	metastasis	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615604	sra.base_sums.SRP186687_SRR8615604.ALL.bw	NCI-H209	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615605	sra.base_sums.SRP186687_SRR8615605.ALL.bw	NCI-H2106	metastasis	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615606	sra.base_sums.SRP186687_SRR8615606.ALL.bw	NCI-H2110	metastasis	African_american	carcinoma (non_small_cell_carcinoma)
+SRR8615607	sra.base_sums.SRP186687_SRR8615607.ALL.bw	NCI-H211	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615608	sra.base_sums.SRP186687_SRR8615608.ALL.bw	NCI-H1838	primary	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615609	sra.base_sums.SRP186687_SRR8615609.ALL.bw	NCI-H1836	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615610	sra.base_sums.SRP186687_SRR8615610.ALL.bw	NCI-H1819	NA	NA	NA
+SRR8615611	sra.base_sums.SRP186687_SRR8615611.ALL.bw	NCI-H1793	primary	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615612	sra.base_sums.SRP186687_SRR8615612.ALL.bw	NCI-H1373	primary	African_american	carcinoma (adenocarcinoma)
+SRR8615613	sra.base_sums.SRP186687_SRR8615613.ALL.bw	NCI-H1915	metastasis	Caucasian	carcinoma (large_cell_carcinoma)
+SRR8615614	sra.base_sums.SRP186687_SRR8615614.ALL.bw	NCI-H1876	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615615	sra.base_sums.SRP186687_SRR8615615.ALL.bw	NCI-H1869	metastasis	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615616	sra.base_sums.SRP186687_SRR8615616.ALL.bw	NCI-H1385	metastasis	African_american	carcinoma (squamous_cell_carcinoma)
+SRR8615617	sra.base_sums.SRP186687_SRR8615617.ALL.bw	COLO 829	primary	Caucasian	malignant_melanoma
+SRR8615618	sra.base_sums.SRP186687_SRR8615618.ALL.bw	COLO-800	primary	Caucasian	malignant_melanoma
+SRR8615619	sra.base_sums.SRP186687_SRR8615619.ALL.bw	SNU-C4	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615620	sra.base_sums.SRP186687_SRR8615620.ALL.bw	TE 159.T	primary	Caucasian	rhabdomyosarcoma
+SRR8615621	sra.base_sums.SRP186687_SRR8615621.ALL.bw	HEC-1-B	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615622	sra.base_sums.SRP186687_SRR8615622.ALL.bw	HEC-251	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615623	sra.base_sums.SRP186687_SRR8615623.ALL.bw	HEC-265	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615624	sra.base_sums.SRP186687_SRR8615624.ALL.bw	ECC12	metastasis	Asian	carcinoma (small_cell_adenocarcinoma)
+SRR8615625	sra.base_sums.SRP186687_SRR8615625.ALL.bw	HEC-59	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615626	sra.base_sums.SRP186687_SRR8615626.ALL.bw	HEC-6	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615627	sra.base_sums.SRP186687_SRR8615627.ALL.bw	HEK TE	NA	Caucasian	other (immortalized_epithelial)
+SRR8615628	sra.base_sums.SRP186687_SRR8615628.ALL.bw	HEL 92.1.7	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M6)
+SRR8615629	sra.base_sums.SRP186687_SRR8615629.ALL.bw	HELA	NA	NA	NA
+SRR8615630	sra.base_sums.SRP186687_SRR8615630.ALL.bw	HEL	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M6)
+SRR8615631	sra.base_sums.SRP186687_SRR8615631.ALL.bw	DOHH-2	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615632	sra.base_sums.SRP186687_SRR8615632.ALL.bw	DND-41	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8615633	sra.base_sums.SRP186687_SRR8615633.ALL.bw	ECC10	metastasis	Asian	carcinoma (small_cell_adenocarcinoma)
+SRR8615634	sra.base_sums.SRP186687_SRR8615634.ALL.bw	EBC-1	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615635	sra.base_sums.SRP186687_SRR8615635.ALL.bw	EB1	primary	African_american	lymphoid_neoplasm (Burkitt_lymphoma)
+SRR8615636	sra.base_sums.SRP186687_SRR8615636.ALL.bw	DV-90	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615637	sra.base_sums.SRP186687_SRR8615637.ALL.bw	A2058	metastasis	Caucasian	malignant_melanoma
+SRR8615638	sra.base_sums.SRP186687_SRR8615638.ALL.bw	A-204	primary	Caucasian	rhabdoid_tumour
+SRR8615639	sra.base_sums.SRP186687_SRR8615639.ALL.bw	COLO-679	metastasis	Caucasian	malignant_melanoma
+SRR8615640	sra.base_sums.SRP186687_SRR8615640.ALL.bw	PC-14	primary	Asian	carcinoma (non_small_cell_carcinoma)
+SRR8615641	sra.base_sums.SRP186687_SRR8615641.ALL.bw	PC-3	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615642	sra.base_sums.SRP186687_SRR8615642.ALL.bw	786-O	primary	Caucasian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615643	sra.base_sums.SRP186687_SRR8615643.ALL.bw	769-P	primary	Caucasian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615644	sra.base_sums.SRP186687_SRR8615644.ALL.bw	8505C	primary	Asian	carcinoma (anaplastic_carcinoma)
+SRR8615645	sra.base_sums.SRP186687_SRR8615645.ALL.bw	8305C	primary	Asian	carcinoma (anaplastic_carcinoma)
+SRR8615646	sra.base_sums.SRP186687_SRR8615646.ALL.bw	A101D	primary	Caucasian	malignant_melanoma
+SRR8615647	sra.base_sums.SRP186687_SRR8615647.ALL.bw	8-MG-BA	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615648	sra.base_sums.SRP186687_SRR8615648.ALL.bw	A172	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615649	sra.base_sums.SRP186687_SRR8615649.ALL.bw	A1207	NA	Caucasian	glioma
+SRR8615650	sra.base_sums.SRP186687_SRR8615650.ALL.bw	SNU-475	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615651	sra.base_sums.SRP186687_SRR8615651.ALL.bw	SNU-478	primary	Asian	carcinoma
+SRR8615652	sra.base_sums.SRP186687_SRR8615652.ALL.bw	SNU-489	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615653	sra.base_sums.SRP186687_SRR8615653.ALL.bw	SNU-503	primary	Asian	carcinoma
+SRR8615654	sra.base_sums.SRP186687_SRR8615654.ALL.bw	SNU-423	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615655	sra.base_sums.SRP186687_SRR8615655.ALL.bw	SNU-449	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615656	sra.base_sums.SRP186687_SRR8615656.ALL.bw	SNU-466	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615657	sra.base_sums.SRP186687_SRR8615657.ALL.bw	SNU-46	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615658	sra.base_sums.SRP186687_SRR8615658.ALL.bw	SNU-520	primary	Asian	carcinoma
+SRR8615659	sra.base_sums.SRP186687_SRR8615659.ALL.bw	SNU-5	metastasis	Asian	carcinoma (undifferentiated_adenocarcinoma)
+SRR8615660	sra.base_sums.SRP186687_SRR8615660.ALL.bw	HuNS1	primary	Caucasian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615661	sra.base_sums.SRP186687_SRR8615661.ALL.bw	HuH-7	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615662	sra.base_sums.SRP186687_SRR8615662.ALL.bw	HuH-6	primary	Asian	other (hepatoblastoma)
+SRR8615663	sra.base_sums.SRP186687_SRR8615663.ALL.bw	HuH28	primary	Asian	carcinoma
+SRR8615664	sra.base_sums.SRP186687_SRR8615664.ALL.bw	huH-1	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615665	sra.base_sums.SRP186687_SRR8615665.ALL.bw	HuG1-N	primary	Asian	carcinoma
+SRR8615666	sra.base_sums.SRP186687_SRR8615666.ALL.bw	HuCCT1	primary	Asian	carcinoma
+SRR8615667	sra.base_sums.SRP186687_SRR8615667.ALL.bw	HT	metastasis	Caucasian	lymphoid_neoplasm (B_cell_lymphoma_unspecified)
+SRR8615668	sra.base_sums.SRP186687_SRR8615668.ALL.bw	HUP-T4	metastasis	Asian	carcinoma
+SRR8615669	sra.base_sums.SRP186687_SRR8615669.ALL.bw	HUP-T3	metastasis	Asian	carcinoma
+SRR8615670	sra.base_sums.SRP186687_SRR8615670.ALL.bw	PE/CA-PJ15	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615671	sra.base_sums.SRP186687_SRR8615671.ALL.bw	SW 780	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8615672	sra.base_sums.SRP186687_SRR8615672.ALL.bw	TGBC11TKB	metastasis	Asian	carcinoma
+SRR8615673	sra.base_sums.SRP186687_SRR8615673.ALL.bw	SIG-M5	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5a)
+SRR8615674	sra.base_sums.SRP186687_SRR8615674.ALL.bw	SHP-77	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615675	sra.base_sums.SRP186687_SRR8615675.ALL.bw	SIMA	primary	Caucasian	neuroblastoma
+SRR8615676	sra.base_sums.SRP186687_SRR8615676.ALL.bw	SIHA	NA	NA	NA
+SRR8615677	sra.base_sums.SRP186687_SRR8615677.ALL.bw	SK-BR-3	metastasis	Caucasian	carcinoma
+SRR8615678	sra.base_sums.SRP186687_SRR8615678.ALL.bw	SJSA-1	primary	African_american	osteosarcoma
+SRR8615679	sra.base_sums.SRP186687_SRR8615679.ALL.bw	SK-ES-1	primary	Caucasian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8615680	sra.base_sums.SRP186687_SRR8615680.ALL.bw	SK-CO-1	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615681	sra.base_sums.SRP186687_SRR8615681.ALL.bw	SK-LMS-1	primary	Caucasian	sarcoma
+SRR8615682	sra.base_sums.SRP186687_SRR8615682.ALL.bw	SK-HEP-1	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615683	sra.base_sums.SRP186687_SRR8615683.ALL.bw	L-540	metastasis	Caucasian	lymphoid_neoplasm (Hodgkin_lymphoma)
+SRR8615684	sra.base_sums.SRP186687_SRR8615684.ALL.bw	LAMA-84	primary	Caucasian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8615685	sra.base_sums.SRP186687_SRR8615685.ALL.bw	PANC-1	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615687	sra.base_sums.SRP186687_SRR8615687.ALL.bw	MV-4-11	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5)
+SRR8615688	sra.base_sums.SRP186687_SRR8615688.ALL.bw	U-118 MG	primary	Caucasian	glioma (astrocytoma)
+SRR8615689	sra.base_sums.SRP186687_SRR8615689.ALL.bw	U-178	NA	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615690	sra.base_sums.SRP186687_SRR8615690.ALL.bw	U-251 MG	primary	Caucasian	glioma (astrocytoma)
+SRR8615691	sra.base_sums.SRP186687_SRR8615691.ALL.bw	PA-TU-8902	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615692	sra.base_sums.SRP186687_SRR8615692.ALL.bw	U-2 OS	primary	Caucasian	osteosarcoma
+SRR8615693	sra.base_sums.SRP186687_SRR8615693.ALL.bw	U343	NA	Caucasian	glioma (astrocytoma_Grade_III)
+SRR8615694	sra.base_sums.SRP186687_SRR8615694.ALL.bw	MOLT-3	NA	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8615695	sra.base_sums.SRP186687_SRR8615695.ALL.bw	MONO-MAC-1	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5)
+SRR8615696	sra.base_sums.SRP186687_SRR8615696.ALL.bw	MONO-MAC-6	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M5)
+SRR8615697	sra.base_sums.SRP186687_SRR8615697.ALL.bw	MON	NA	NA	NA
+SRR8615698	sra.base_sums.SRP186687_SRR8615698.ALL.bw	MOR/CPR	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615699	sra.base_sums.SRP186687_SRR8615699.ALL.bw	MPP 89	metastasis	Caucasian	mesothelioma
+SRR8615700	sra.base_sums.SRP186687_SRR8615700.ALL.bw	MSTO-211H	metastasis	Caucasian	mesothelioma
+SRR8615701	sra.base_sums.SRP186687_SRR8615701.ALL.bw	MUTZ-3	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M4)
+SRR8615702	sra.base_sums.SRP186687_SRR8615702.ALL.bw	KNS-60	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615703	sra.base_sums.SRP186687_SRR8615703.ALL.bw	KNS-42	primary	Asian	glioma
+SRR8615704	sra.base_sums.SRP186687_SRR8615704.ALL.bw	KARPAS-422	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615705	sra.base_sums.SRP186687_SRR8615705.ALL.bw	KARPAS-620	primary	Caucasian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615707	sra.base_sums.SRP186687_SRR8615707.ALL.bw	KO52	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M2)
+SRR8615708	sra.base_sums.SRP186687_SRR8615708.ALL.bw	KNS-81	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615709	sra.base_sums.SRP186687_SRR8615709.ALL.bw	KNS-62	metastasis	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615710	sra.base_sums.SRP186687_SRR8615710.ALL.bw	JVM-2	primary	Caucasian	lymphoid_neoplasm (chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma)
+SRR8615711	sra.base_sums.SRP186687_SRR8615711.ALL.bw	JVM-3	primary	Caucasian	lymphoid_neoplasm (chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma)
+SRR8615712	sra.base_sums.SRP186687_SRR8615712.ALL.bw	JURKAT	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8615714	sra.base_sums.SRP186687_SRR8615714.ALL.bw	KALS-1	primary	Asian	glioma
+SRR8615715	sra.base_sums.SRP186687_SRR8615715.ALL.bw	KARPAS-299	primary	Caucasian	lymphoid_neoplasm (anaplastic_large_cell_lymphoma)
+SRR8615717	sra.base_sums.SRP186687_SRR8615717.ALL.bw	K-562	metastasis	Caucasian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia, Ph_positive)
+SRR8615718	sra.base_sums.SRP186687_SRR8615718.ALL.bw	RH-18	primary	NA	rhabdomyosarcoma (alveolar)
+SRR8615721	sra.base_sums.SRP186687_SRR8615721.ALL.bw	TUHR10TKB	primary	Asian	carcinoma
+SRR8615722	sra.base_sums.SRP186687_SRR8615722.ALL.bw	RH-30	metastasis	Caucasian	rhabdomyosarcoma (alveolar)
+SRR8615723	sra.base_sums.SRP186687_SRR8615723.ALL.bw	U-87 MG	primary	Caucasian	glioma (astrocytoma)
+SRR8615724	sra.base_sums.SRP186687_SRR8615724.ALL.bw	TTC709	NA	NA	NA
+SRR8615725	sra.base_sums.SRP186687_SRR8615725.ALL.bw	TTC642	NA	NA	NA
+SRR8615727	sra.base_sums.SRP186687_SRR8615727.ALL.bw	NA	NA	NA	NA
+SRR8615728	sra.base_sums.SRP186687_SRR8615728.ALL.bw	TT2609-C02	primary	Caucasian	carcinoma (follicular_carcinoma)
+SRR8615729	sra.base_sums.SRP186687_SRR8615729.ALL.bw	TOV-21G	primary	Caucasian	carcinoma (clear_cell_carcinoma)
+SRR8615743	sra.base_sums.SRP186687_SRR8615743.ALL.bw	RL95-2	primary	Caucasian	carcinoma (mixed_adenosquamous_carcinoma)
+SRR8615744	sra.base_sums.SRP186687_SRR8615744.ALL.bw	SH-10-TC	primary	Asian	carcinoma
+SRR8615745	sra.base_sums.SRP186687_SRR8615745.ALL.bw	SF-295	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615746	sra.base_sums.SRP186687_SRR8615746.ALL.bw	SF268	primary	Caucasian	glioma
+SRR8615747	sra.base_sums.SRP186687_SRR8615747.ALL.bw	RL	metastasis	Caucasian	lymphoid_neoplasm (B_cell_lymphoma_unspecified)
+SRR8615748	sra.base_sums.SRP186687_SRR8615748.ALL.bw	SF539	primary	Caucasian	glioma
+SRR8615749	sra.base_sums.SRP186687_SRR8615749.ALL.bw	Set-2	primary	Asian	haematopoietic_neoplasm (essential_thrombocythaemia)
+SRR8615750	sra.base_sums.SRP186687_SRR8615750.ALL.bw	SEM	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615751	sra.base_sums.SRP186687_SRR8615751.ALL.bw	SF-172	NA	NA	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615752	sra.base_sums.SRP186687_SRR8615752.ALL.bw	SF126	primary	Caucasian	glioma (astrocytoma)
+SRR8615753	sra.base_sums.SRP186687_SRR8615753.ALL.bw	OVKATE	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615754	sra.base_sums.SRP186687_SRR8615754.ALL.bw	U-937	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615755	sra.base_sums.SRP186687_SRR8615755.ALL.bw	MDA-MB-134-VI	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615756	sra.base_sums.SRP186687_SRR8615756.ALL.bw	MDA-MB-157	metastasis	African_american	carcinoma (ductal_carcinoma, medullary)
+SRR8615757	sra.base_sums.SRP186687_SRR8615757.ALL.bw	MCAS	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615758	sra.base_sums.SRP186687_SRR8615758.ALL.bw	MCF7	metastasis	Caucasian	carcinoma
+SRR8615759	sra.base_sums.SRP186687_SRR8615759.ALL.bw	Malme-3M	metastasis	Caucasian	malignant_melanoma
+SRR8615760	sra.base_sums.SRP186687_SRR8615760.ALL.bw	MC116	metastasis	Caucasian	lymphoid_neoplasm (B_cell_lymphoma_unspecified)
+SRR8615761	sra.base_sums.SRP186687_SRR8615761.ALL.bw	M059K	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615762	sra.base_sums.SRP186687_SRR8615762.ALL.bw	M-07e	primary	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M7)
+SRR8615763	sra.base_sums.SRP186687_SRR8615763.ALL.bw	SW 1353	primary	Caucasian	chondrosarcoma
+SRR8615764	sra.base_sums.SRP186687_SRR8615764.ALL.bw	NCI-H1930	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615765	sra.base_sums.SRP186687_SRR8615765.ALL.bw	Panc 04.03	primary	Caucasian	carcinoma
+SRR8615767	sra.base_sums.SRP186687_SRR8615767.ALL.bw	MDA-MB-231	metastasis	Caucasian	carcinoma
+SRR8615768	sra.base_sums.SRP186687_SRR8615768.ALL.bw	BFTC-905	primary	Asian	carcinoma (transitional_cell_carcinoma, papillary_transitional_cell_carcinoma)
+SRR8615769	sra.base_sums.SRP186687_SRR8615769.ALL.bw	BFTC-909	primary	Asian	carcinoma
+SRR8615770	sra.base_sums.SRP186687_SRR8615770.ALL.bw	BDCM	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615771	sra.base_sums.SRP186687_SRR8615771.ALL.bw	BEN	metastasis	Caucasian	carcinoma
+SRR8615772	sra.base_sums.SRP186687_SRR8615772.ALL.bw	BCP-1	primary	Caucasian	lymphoid_neoplasm (B_cell_lymphoma_unspecified)
+SRR8615773	sra.base_sums.SRP186687_SRR8615773.ALL.bw	B-CPAP	primary	Caucasian	carcinoma (papillary_carcinoma)
+SRR8615774	sra.base_sums.SRP186687_SRR8615774.ALL.bw	AU565	metastasis	Caucasian	carcinoma
+SRR8615775	sra.base_sums.SRP186687_SRR8615775.ALL.bw	BC-3C	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8615781	sra.base_sums.SRP186687_SRR8615781.ALL.bw	Hs 729	primary	Caucasian	rhabdomyosarcoma
+SRR8615782	sra.base_sums.SRP186687_SRR8615782.ALL.bw	Hs 618.T	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615783	sra.base_sums.SRP186687_SRR8615783.ALL.bw	Hs 675.T	primary	Caucasian	carcinoma
+SRR8615784	sra.base_sums.SRP186687_SRR8615784.ALL.bw	Hs 683	primary	Caucasian	glioma
+SRR8615785	sra.base_sums.SRP186687_SRR8615785.ALL.bw	Hs 688(A).T	primary	Caucasian	malignant_melanoma
+SRR8615786	sra.base_sums.SRP186687_SRR8615786.ALL.bw	COLO 792	metastasis	Caucasian	malignant_melanoma
+SRR8615787	sra.base_sums.SRP186687_SRR8615787.ALL.bw	COLO-783	metastasis	Caucasian	malignant_melanoma
+SRR8615788	sra.base_sums.SRP186687_SRR8615788.ALL.bw	COLO 741	metastasis	Caucasian	malignant_melanoma
+SRR8615789	sra.base_sums.SRP186687_SRR8615789.ALL.bw	COLO 684	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615791	sra.base_sums.SRP186687_SRR8615791.ALL.bw	Hs 739.T	primary	Asian	carcinoma
+SRR8615792	sra.base_sums.SRP186687_SRR8615792.ALL.bw	COLO-678	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615793	sra.base_sums.SRP186687_SRR8615793.ALL.bw	COLO 668	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615794	sra.base_sums.SRP186687_SRR8615794.ALL.bw	NCI-H2077;NCI-H1581	NA	NA	NA
+SRR8615795	sra.base_sums.SRP186687_SRR8615795.ALL.bw	PA-TU-8988S	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615796	sra.base_sums.SRP186687_SRR8615796.ALL.bw	NCI-H2085	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615797	sra.base_sums.SRP186687_SRR8615797.ALL.bw	RERF-LC-Sq1	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615798	sra.base_sums.SRP186687_SRR8615798.ALL.bw	NCI-H522	primary	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615799	sra.base_sums.SRP186687_SRR8615799.ALL.bw	NCI-H520	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615800	sra.base_sums.SRP186687_SRR8615800.ALL.bw	RH-41	metastasis	Caucasian	rhabdomyosarcoma (alveolar)
+SRR8615801	sra.base_sums.SRP186687_SRR8615801.ALL.bw	RI-1	primary	Caucasian	lymphoid_neoplasm (B_cell_lymphoma_unspecified)
+SRR8615802	sra.base_sums.SRP186687_SRR8615802.ALL.bw	NCI-H2087	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615803	sra.base_sums.SRP186687_SRR8615803.ALL.bw	RKO	primary	African_american	carcinoma (adenocarcinoma)
+SRR8615804	sra.base_sums.SRP186687_SRR8615804.ALL.bw	NCI-H441	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615805	sra.base_sums.SRP186687_SRR8615805.ALL.bw	NCI-H358	primary	Caucasian	carcinoma (bronchioloalveolar_adenocarcinoma)
+SRR8615806	sra.base_sums.SRP186687_SRR8615806.ALL.bw	NCI-H3255	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615807	sra.base_sums.SRP186687_SRR8615807.ALL.bw	NCI-H322	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615808	sra.base_sums.SRP186687_SRR8615808.ALL.bw	NCI-H510	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615809	sra.base_sums.SRP186687_SRR8615809.ALL.bw	NCI-H508	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615810	sra.base_sums.SRP186687_SRR8615810.ALL.bw	NCI-H460	metastasis	Caucasian	carcinoma (large_cell_carcinoma)
+SRR8615811	sra.base_sums.SRP186687_SRR8615811.ALL.bw	NCI-H446	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615832	sra.base_sums.SRP186687_SRR8615832.ALL.bw	TC-71	primary	Caucasian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8615833	sra.base_sums.SRP186687_SRR8615833.ALL.bw	TE 125.T	primary	Caucasian	rhabdomyosarcoma
+SRR8615834	sra.base_sums.SRP186687_SRR8615834.ALL.bw	TE-14	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615835	sra.base_sums.SRP186687_SRR8615835.ALL.bw	LN-235	NA	Caucasian	glioma (astrocytoma_Grade_IV)
+SRR8615836	sra.base_sums.SRP186687_SRR8615836.ALL.bw	LN-229	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615837	sra.base_sums.SRP186687_SRR8615837.ALL.bw	LN-215	NA	Caucasian	glioma (astrocytoma_Grade_IV)
+SRR8615838	sra.base_sums.SRP186687_SRR8615838.ALL.bw	LN-18	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615839	sra.base_sums.SRP186687_SRR8615839.ALL.bw	LMSU	metastasis	Asian	carcinoma (adenocarcinoma)
+SRR8615840	sra.base_sums.SRP186687_SRR8615840.ALL.bw	LK-2	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615841	sra.base_sums.SRP186687_SRR8615841.ALL.bw	IM95	primary	Asian	carcinoma (intestinal_adenocarcinoma)
+SRR8615842	sra.base_sums.SRP186687_SRR8615842.ALL.bw	IMR-32	primary	Caucasian	neuroblastoma
+SRR8615843	sra.base_sums.SRP186687_SRR8615843.ALL.bw	IGR-39	primary	Caucasian	malignant_melanoma
+SRR8615844	sra.base_sums.SRP186687_SRR8615844.ALL.bw	IGROV1	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615845	sra.base_sums.SRP186687_SRR8615845.ALL.bw	IGR-1	metastasis	Caucasian	malignant_melanoma
+SRR8615846	sra.base_sums.SRP186687_SRR8615846.ALL.bw	IGR-37	metastasis	Caucasian	malignant_melanoma
+SRR8615847	sra.base_sums.SRP186687_SRR8615847.ALL.bw	HuTu 80	primary	African_american	carcinoma (adenocarcinoma)
+SRR8615848	sra.base_sums.SRP186687_SRR8615848.ALL.bw	IA-LM	metastasis	Asian	carcinoma (large_cell_carcinoma)
+SRR8615849	sra.base_sums.SRP186687_SRR8615849.ALL.bw	HuT 102	primary	African_american	lymphoid_neoplasm (mycosis_fungoides-Sezary_syndrome)
+SRR8615850	sra.base_sums.SRP186687_SRR8615850.ALL.bw	HuT 78	primary	Caucasian	lymphoid_neoplasm (mycosis_fungoides-Sezary_syndrome)
+SRR8615851	sra.base_sums.SRP186687_SRR8615851.ALL.bw	SLR 26	primary	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8615853	sra.base_sums.SRP186687_SRR8615853.ALL.bw	SW 900	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615854	sra.base_sums.SRP186687_SRR8615854.ALL.bw	SW837	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615855	sra.base_sums.SRP186687_SRR8615855.ALL.bw	T1-73	primary	Caucasian	osteosarcoma
+SRR8615856	sra.base_sums.SRP186687_SRR8615856.ALL.bw	SW948	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615857	sra.base_sums.SRP186687_SRR8615857.ALL.bw	T3M-10	primary	Asian	carcinoma (large_cell_carcinoma)
+SRR8615858	sra.base_sums.SRP186687_SRR8615858.ALL.bw	T24	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8615859	sra.base_sums.SRP186687_SRR8615859.ALL.bw	SKPNDW	NA	NA	NA
+SRR8615860	sra.base_sums.SRP186687_SRR8615860.ALL.bw	SK-RC-20	NA	Caucasian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615861	sra.base_sums.SRP186687_SRR8615861.ALL.bw	SK-UT-1	primary	Caucasian	leiomyosarcoma
+SRR8615862	sra.base_sums.SRP186687_SRR8615862.ALL.bw	SLR 20	primary	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8615863	sra.base_sums.SRP186687_SRR8615863.ALL.bw	SLR 21	primary	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8615864	sra.base_sums.SRP186687_SRR8615864.ALL.bw	SLR 23	primary	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8615865	sra.base_sums.SRP186687_SRR8615865.ALL.bw	SLR 24	primary	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8615866	sra.base_sums.SRP186687_SRR8615866.ALL.bw	SLR 25	primary	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8615867	sra.base_sums.SRP186687_SRR8615867.ALL.bw	ONS-76	primary	Asian	primitive_neuroectodermal_tumour-medulloblastoma
+SRR8615868	sra.base_sums.SRP186687_SRR8615868.ALL.bw	FTC-238	metastasis	Caucasian	carcinoma (follicular_carcinoma)
+SRR8615869	sra.base_sums.SRP186687_SRR8615869.ALL.bw	FTC-133	metastasis	Caucasian	carcinoma (follicular_carcinoma)
+SRR8615870	sra.base_sums.SRP186687_SRR8615870.ALL.bw	OVCAR-4	primary	Caucasian	carcinoma
+SRR8615871	sra.base_sums.SRP186687_SRR8615871.ALL.bw	OVCAR-8	primary	Caucasian	carcinoma
+SRR8615872	sra.base_sums.SRP186687_SRR8615872.ALL.bw	LN382	NA	Caucasian	glioma (astrocytoma_Grade_IV)
+SRR8615873	sra.base_sums.SRP186687_SRR8615873.ALL.bw	OV7	primary	Caucasian	carcinoma
+SRR8615874	sra.base_sums.SRP186687_SRR8615874.ALL.bw	OV-90	metastasis	Caucasian	carcinoma (mixed_carcinoma)
+SRR8615875	sra.base_sums.SRP186687_SRR8615875.ALL.bw	OUMS-23	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615876	sra.base_sums.SRP186687_SRR8615876.ALL.bw	OV56	primary	Caucasian	carcinoma
+SRR8615877	sra.base_sums.SRP186687_SRR8615877.ALL.bw	OPM-2	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615878	sra.base_sums.SRP186687_SRR8615878.ALL.bw	OS-RC-2	primary	Asian	carcinoma (renal_cell_carcinoma)
+SRR8615879	sra.base_sums.SRP186687_SRR8615879.ALL.bw	OVISE	metastasis	Asian	carcinoma (clear_cell_carcinoma)
+SRR8615880	sra.base_sums.SRP186687_SRR8615880.ALL.bw	OVK18	primary	Asian	carcinoma (endometrioid_carcinoma)
+SRR8615881	sra.base_sums.SRP186687_SRR8615881.ALL.bw	Hs 863.T	primary	Caucasian	Ewings_sarcoma-peripheral_primitive_neuroectodermal_tumour
+SRR8615882	sra.base_sums.SRP186687_SRR8615882.ALL.bw	Hs 852.T	primary	Asian	malignant_melanoma
+SRR8615883	sra.base_sums.SRP186687_SRR8615883.ALL.bw	Hs 888.T	metastasis	Caucasian	osteosarcoma
+SRR8615884	sra.base_sums.SRP186687_SRR8615884.ALL.bw	Hs 870.T	primary	Caucasian	osteosarcoma
+SRR8615885	sra.base_sums.SRP186687_SRR8615885.ALL.bw	Hs 934.T	primary	Caucasian	malignant_melanoma
+SRR8615886	sra.base_sums.SRP186687_SRR8615886.ALL.bw	Hs 895.T	metastasis	Caucasian	malignant_melanoma
+SRR8615887	sra.base_sums.SRP186687_SRR8615887.ALL.bw	Hs 939.T	primary	Caucasian	malignant_melanoma
+SRR8615888	sra.base_sums.SRP186687_SRR8615888.ALL.bw	Hs 936.T	primary	Caucasian	malignant_melanoma
+SRR8615889	sra.base_sums.SRP186687_SRR8615889.ALL.bw	Hs 944.T	metastasis	Caucasian	malignant_melanoma
+SRR8615890	sra.base_sums.SRP186687_SRR8615890.ALL.bw	Hs 940.T	primary	Caucasian	malignant_melanoma
+SRR8615891	sra.base_sums.SRP186687_SRR8615891.ALL.bw	HCC2157	primary	African_american	carcinoma (ductal_carcinoma)
+SRR8615892	sra.base_sums.SRP186687_SRR8615892.ALL.bw	SW579	primary	Caucasian	carcinoma (anaplastic_carcinoma)
+SRR8615893	sra.base_sums.SRP186687_SRR8615893.ALL.bw	DMS 79	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615894	sra.base_sums.SRP186687_SRR8615894.ALL.bw	TUHR4TKB	primary	Asian	carcinoma
+SRR8615895	sra.base_sums.SRP186687_SRR8615895.ALL.bw	TYK-nu	primary	Asian	carcinoma (undifferentiated_carcinoma)
+SRR8615896	sra.base_sums.SRP186687_SRR8615896.ALL.bw	U266B1	primary	Caucasian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615897	sra.base_sums.SRP186687_SRR8615897.ALL.bw	HCC364	NA	Caucasian	carcinoma (adenocarcinoma)
+SRR8615898	sra.base_sums.SRP186687_SRR8615898.ALL.bw	NCI-H1299	metastasis	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615899	sra.base_sums.SRP186687_SRR8615899.ALL.bw	NCI-H1339	metastasis	African_american	carcinoma (small_cell_carcinoma)
+SRR8615900	sra.base_sums.SRP186687_SRR8615900.ALL.bw	HCC-33	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615901	sra.base_sums.SRP186687_SRR8615901.ALL.bw	NCI-H1184	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615902	sra.base_sums.SRP186687_SRR8615902.ALL.bw	KMRC-1	primary	Asian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615903	sra.base_sums.SRP186687_SRR8615903.ALL.bw	KMM-1	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615904	sra.base_sums.SRP186687_SRR8615904.ALL.bw	NCI-H1341	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615905	sra.base_sums.SRP186687_SRR8615905.ALL.bw	NCI-H1355	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615906	sra.base_sums.SRP186687_SRR8615906.ALL.bw	KM12	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615907	sra.base_sums.SRP186687_SRR8615907.ALL.bw	KLE	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615908	sra.base_sums.SRP186687_SRR8615908.ALL.bw	KM-H2	metastasis	Asian	lymphoid_neoplasm (Hodgkin_lymphoma)
+SRR8615909	sra.base_sums.SRP186687_SRR8615909.ALL.bw	KMBC-2	primary	Asian	carcinoma
+SRR8615910	sra.base_sums.SRP186687_SRR8615910.ALL.bw	KG-1	primary	African_american	haematopoietic_neoplasm (acute_myeloid_leukaemia, M6)
+SRR8615911	sra.base_sums.SRP186687_SRR8615911.ALL.bw	KG-1-C	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615912	sra.base_sums.SRP186687_SRR8615912.ALL.bw	Ki-JK	primary	Asian	lymphoid_neoplasm (anaplastic_large_cell_lymphoma)
+SRR8615913	sra.base_sums.SRP186687_SRR8615913.ALL.bw	KHM-1B	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615914	sra.base_sums.SRP186687_SRR8615914.ALL.bw	JHH-7	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615915	sra.base_sums.SRP186687_SRR8615915.ALL.bw	JHOC-5	primary	Asian	carcinoma (clear_cell_carcinoma)
+SRR8615916	sra.base_sums.SRP186687_SRR8615916.ALL.bw	JHOM-1	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615917	sra.base_sums.SRP186687_SRR8615917.ALL.bw	JHOM-2B	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615918	sra.base_sums.SRP186687_SRR8615918.ALL.bw	JHH-2	metastasis	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615919	sra.base_sums.SRP186687_SRR8615919.ALL.bw	JHH-4	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615920	sra.base_sums.SRP186687_SRR8615920.ALL.bw	JHH-5	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615921	sra.base_sums.SRP186687_SRR8615921.ALL.bw	JHH-6	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615922	sra.base_sums.SRP186687_SRR8615922.ALL.bw	JHOS-2	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615923	sra.base_sums.SRP186687_SRR8615923.ALL.bw	JHOS-4	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615924	sra.base_sums.SRP186687_SRR8615924.ALL.bw	SW1116	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615925	sra.base_sums.SRP186687_SRR8615925.ALL.bw	SW 1088	primary	Caucasian	glioma
+SRR8615926	sra.base_sums.SRP186687_SRR8615926.ALL.bw	SUP-T1	metastasis	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
+SRR8615927	sra.base_sums.SRP186687_SRR8615927.ALL.bw	SUP-T11	primary	Caucasian	lymphoid_neoplasm (peripheral_T_cell_lymphoma_unspecified)
+SRR8615928	sra.base_sums.SRP186687_SRR8615928.ALL.bw	SUP-M2	metastasis	Caucasian	lymphoid_neoplasm (anaplastic_large_cell_lymphoma)
+SRR8615929	sra.base_sums.SRP186687_SRR8615929.ALL.bw	SUP-B15	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615930	sra.base_sums.SRP186687_SRR8615930.ALL.bw	SNU-201	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615931	sra.base_sums.SRP186687_SRR8615931.ALL.bw	SNU-213	primary	Asian	carcinoma
+SRR8615932	sra.base_sums.SRP186687_SRR8615932.ALL.bw	SNU-182	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8615933	sra.base_sums.SRP186687_SRR8615933.ALL.bw	SNU-1	metastasis	Asian	carcinoma (undifferentiated_adenocarcinoma)
+SRR8615934	sra.base_sums.SRP186687_SRR8615934.ALL.bw	SNU-16	metastasis	Asian	carcinoma (undifferentiated_adenocarcinoma)
+SRR8615935	sra.base_sums.SRP186687_SRR8615935.ALL.bw	SNU-175	primary	Asian	carcinoma
+SRR8615936	sra.base_sums.SRP186687_SRR8615936.ALL.bw	SNU-1214	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615937	sra.base_sums.SRP186687_SRR8615937.ALL.bw	SNU-1272	primary	Asian	carcinoma (clear_cell_renal_cell_carcinoma)
+SRR8615938	sra.base_sums.SRP186687_SRR8615938.ALL.bw	SNU-1197	primary	Asian	carcinoma
+SRR8615939	sra.base_sums.SRP186687_SRR8615939.ALL.bw	SNU-119	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615940	sra.base_sums.SRP186687_SRR8615940.ALL.bw	SK-N-FI	metastasis	Caucasian	neuroblastoma
+SRR8615941	sra.base_sums.SRP186687_SRR8615941.ALL.bw	KMS-34	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615942	sra.base_sums.SRP186687_SRR8615942.ALL.bw	KMS-28BM	primary	Asian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615943	sra.base_sums.SRP186687_SRR8615943.ALL.bw	KYO-1	primary	Asian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8615944	sra.base_sums.SRP186687_SRR8615944.ALL.bw	NCI-H1437	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615945	sra.base_sums.SRP186687_SRR8615945.ALL.bw	NCI-H1395	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615946	sra.base_sums.SRP186687_SRR8615946.ALL.bw	NCI-H1436	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615947	sra.base_sums.SRP186687_SRR8615947.ALL.bw	SU-DHL-8	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615948	sra.base_sums.SRP186687_SRR8615948.ALL.bw	COV318	primary	Caucasian	carcinoma
+SRR8615949	sra.base_sums.SRP186687_SRR8615949.ALL.bw	COV362	primary	Caucasian	carcinoma
+SRR8615950	sra.base_sums.SRP186687_SRR8615950.ALL.bw	KP-3	metastasis	Asian	carcinoma (ductal_carcinoma)
+SRR8615951	sra.base_sums.SRP186687_SRR8615951.ALL.bw	KP-2	primary	Asian	carcinoma
+SRR8615952	sra.base_sums.SRP186687_SRR8615952.ALL.bw	DB	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8615953	sra.base_sums.SRP186687_SRR8615953.ALL.bw	DBTRG-05MG	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615954	sra.base_sums.SRP186687_SRR8615954.ALL.bw	NCI-H1648	metastasis	African_american	carcinoma (adenocarcinoma)
+SRR8615955	sra.base_sums.SRP186687_SRR8615955.ALL.bw	COV644	primary	Caucasian	carcinoma
+SRR8615956	sra.base_sums.SRP186687_SRR8615956.ALL.bw	COV434	primary	Caucasian	sex_cord-stromal_tumour (granulosa_cell_tumour)
+SRR8615957	sra.base_sums.SRP186687_SRR8615957.ALL.bw	D283 Med	metastasis	Caucasian	primitive_neuroectodermal_tumour-medulloblastoma
+SRR8615958	sra.base_sums.SRP186687_SRR8615958.ALL.bw	CW-2	primary	Asian	carcinoma
+SRR8615959	sra.base_sums.SRP186687_SRR8615959.ALL.bw	DAN-G	primary	Caucasian	carcinoma
+SRR8615960	sra.base_sums.SRP186687_SRR8615960.ALL.bw	D341 Med	primary	Caucasian	primitive_neuroectodermal_tumour-medulloblastoma
+SRR8615961	sra.base_sums.SRP186687_SRR8615961.ALL.bw	Daudi	primary	African_american	lymphoid_neoplasm (Burkitt_lymphoma)
+SRR8615962	sra.base_sums.SRP186687_SRR8615962.ALL.bw	Daoy	primary	Caucasian	primitive_neuroectodermal_tumour-medulloblastoma
+SRR8615963	sra.base_sums.SRP186687_SRR8615963.ALL.bw	COR-L105	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615964	sra.base_sums.SRP186687_SRR8615964.ALL.bw	RCC10RGB	primary	Asian	carcinoma (renal_cell_carcinoma)
+SRR8615965	sra.base_sums.SRP186687_SRR8615965.ALL.bw	RCH-ACV	primary	Caucasian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615966	sra.base_sums.SRP186687_SRR8615966.ALL.bw	Hs 611.T	primary	Caucasian	lymphoid_neoplasm (Hodgkin_lymphoma)
+SRR8615967	sra.base_sums.SRP186687_SRR8615967.ALL.bw	PLB-985	NA	Caucasian	haematopoietic_neoplasm (acute_myeloid_leukaemia)
+SRR8615968	sra.base_sums.SRP186687_SRR8615968.ALL.bw	PLC/PRF/5	primary	African_american	carcinoma (hepatocellular_carcinoma)
+SRR8615969	sra.base_sums.SRP186687_SRR8615969.ALL.bw	PK-59	primary	Asian	carcinoma
+SRR8615970	sra.base_sums.SRP186687_SRR8615970.ALL.bw	PL-21	primary	Asian	haematopoietic_neoplasm (acute_myeloid_leukaemia, M3)
+SRR8615971	sra.base_sums.SRP186687_SRR8615971.ALL.bw	QGP-1	primary	Asian	carcinoma
+SRR8615972	sra.base_sums.SRP186687_SRR8615972.ALL.bw	Raji	primary	African_american	lymphoid_neoplasm (Burkitt_lymphoma)
+SRR8615973	sra.base_sums.SRP186687_SRR8615973.ALL.bw	PrEC LH	NA	Caucasian	other (immortalized_epithelial)
+SRR8615974	sra.base_sums.SRP186687_SRR8615974.ALL.bw	PSN1	primary	Asian	carcinoma (ductal_carcinoma)
+SRR8615975	sra.base_sums.SRP186687_SRR8615975.ALL.bw	NCI-H841	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615976	sra.base_sums.SRP186687_SRR8615976.ALL.bw	NCI-H838	metastasis	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615977	sra.base_sums.SRP186687_SRR8615977.ALL.bw	NCI-H889	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615978	sra.base_sums.SRP186687_SRR8615978.ALL.bw	NCI-H854	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615979	sra.base_sums.SRP186687_SRR8615979.ALL.bw	NCI-H1781	metastasis	Caucasian	carcinoma (bronchioloalveolar_adenocarcinoma)
+SRR8615980	sra.base_sums.SRP186687_SRR8615980.ALL.bw	NCI-H1792	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615981	sra.base_sums.SRP186687_SRR8615981.ALL.bw	NCI-H82	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615982	sra.base_sums.SRP186687_SRR8615982.ALL.bw	NCI-H810	primary	African_american	carcinoma (large_cell_carcinoma)
+SRR8615983	sra.base_sums.SRP186687_SRR8615983.ALL.bw	NCI-H1694	metastasis	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615984	sra.base_sums.SRP186687_SRR8615984.ALL.bw	NCI-H1703	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615985	sra.base_sums.SRP186687_SRR8615985.ALL.bw	NCI-H1734	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615986	sra.base_sums.SRP186687_SRR8615986.ALL.bw	NCI-H1755	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615987	sra.base_sums.SRP186687_SRR8615987.ALL.bw	NCI-H1650	metastasis	Caucasian	carcinoma (bronchioloalveolar_adenocarcinoma)
+SRR8615988	sra.base_sums.SRP186687_SRR8615988.ALL.bw	NCI-H1651	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615989	sra.base_sums.SRP186687_SRR8615989.ALL.bw	NCI-H1666	metastasis	Caucasian	carcinoma (bronchioloalveolar_adenocarcinoma)
+SRR8615990	sra.base_sums.SRP186687_SRR8615990.ALL.bw	NCI-H1693	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615991	sra.base_sums.SRP186687_SRR8615991.ALL.bw	COLO-680N	primary	African_american	carcinoma (squamous_cell_carcinoma)
+SRR8615992	sra.base_sums.SRP186687_SRR8615992.ALL.bw	SNU-685	primary	Asian	carcinoma (carcinosarcoma-malignant_mesodermal_mixed_tumour)
+SRR8615993	sra.base_sums.SRP186687_SRR8615993.ALL.bw	RERF-LC-MS	primary	Asian	carcinoma (non_small_cell_carcinoma)
+SRR8615994	sra.base_sums.SRP186687_SRR8615994.ALL.bw	HCC2450	NA	NA	NA
+SRR8615996	sra.base_sums.SRP186687_SRR8615996.ALL.bw	HCC2935	primary	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615997	sra.base_sums.SRP186687_SRR8615997.ALL.bw	HCC-2814	NA	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615998	sra.base_sums.SRP186687_SRR8615998.ALL.bw	DMS 53	primary	Caucasian	carcinoma (small_cell_carcinoma)
+SRR8615999	sra.base_sums.SRP186687_SRR8615999.ALL.bw	HCC-2108	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615282	sra.base_sums.SRP186687_SRR8615282.ALL.bw	HCT 116	primary	Caucasian	carcinoma
+SRR8615283	sra.base_sums.SRP186687_SRR8615283.ALL.bw	HCC-95	primary	Caucasian	carcinoma (squamous_cell_carcinoma)
+SRR8615284	sra.base_sums.SRP186687_SRR8615284.ALL.bw	HCC827	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615285	sra.base_sums.SRP186687_SRR8615285.ALL.bw	EJM	primary	Caucasian	lymphoid_neoplasm (plasma_cell_myeloma)
+SRR8615286	sra.base_sums.SRP186687_SRR8615286.ALL.bw	EKVX	primary	Caucasian	carcinoma (adenocarcinoma)
+SRR8615287	sra.base_sums.SRP186687_SRR8615287.ALL.bw	EFO-27	metastasis	Caucasian	carcinoma (mucinous_carcinoma)
+SRR8615288	sra.base_sums.SRP186687_SRR8615288.ALL.bw	EHEB	primary	Caucasian	lymphoid_neoplasm (chronic_lymphocytic_leukaemia-small_lymphocytic_lymphoma)
+SRR8615289	sra.base_sums.SRP186687_SRR8615289.ALL.bw	EFM-19	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615295	sra.base_sums.SRP186687_SRR8615295.ALL.bw	PK-45H	primary	Asian	carcinoma
+SRR8615297	sra.base_sums.SRP186687_SRR8615297.ALL.bw	DU4475	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615302	sra.base_sums.SRP186687_SRR8615302.ALL.bw	Pfeiffer	metastasis	Caucasian	lymphoid_neoplasm (diffuse_large_B_cell_lymphoma)
+SRR8618302	sra.base_sums.SRP186687_SRR8618302.ALL.bw	WM-983B	primary	Caucasian	malignant_melanoma
+SRR8618303	sra.base_sums.SRP186687_SRR8618303.ALL.bw	WM-88	primary	Caucasian	malignant_melanoma
+SRR8618305	sra.base_sums.SRP186687_SRR8618305.ALL.bw	VCaP	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615308	sra.base_sums.SRP186687_SRR8615308.ALL.bw	SNU-245	primary	Asian	carcinoma
+SRR8618308	sra.base_sums.SRP186687_SRR8618308.ALL.bw	YD-15	primary	Asian	carcinoma (mucoepidermoid_carcinoma)
+SRR8615310	sra.base_sums.SRP186687_SRR8615310.ALL.bw	SNU-398	primary	Asian	carcinoma (hepatocellular_carcinoma)
+SRR8618310	sra.base_sums.SRP186687_SRR8618310.ALL.bw	YD-8	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8618311	sra.base_sums.SRP186687_SRR8618311.ALL.bw	YD-38	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8618312	sra.base_sums.SRP186687_SRR8618312.ALL.bw	YKG1	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8618313	sra.base_sums.SRP186687_SRR8618313.ALL.bw	YH-13	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8618314	sra.base_sums.SRP186687_SRR8618314.ALL.bw	WM-266-4	metastasis	Caucasian	malignant_melanoma
+SRR8615315	sra.base_sums.SRP186687_SRR8615315.ALL.bw	CAL-54	metastasis	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8618315	sra.base_sums.SRP186687_SRR8618315.ALL.bw	VMRC-RCZ	primary	Caucasian	carcinoma (renal_cell_carcinoma)
+SRR8618316	sra.base_sums.SRP186687_SRR8618316.ALL.bw	WM1799	primary	Caucasian	malignant_melanoma
+SRR8618317	sra.base_sums.SRP186687_SRR8618317.ALL.bw	VMRC-RCW	primary	Caucasian	carcinoma
+SRR8615318	sra.base_sums.SRP186687_SRR8615318.ALL.bw	NALM-19	primary	Asian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8618318	sra.base_sums.SRP186687_SRR8618318.ALL.bw	WM-115	primary	Caucasian	malignant_melanoma
+SRR8615319	sra.base_sums.SRP186687_SRR8615319.ALL.bw	Hs 751.T	primary	Caucasian	lymphoid_neoplasm (Hodgkin_lymphoma)
+SRR8618319	sra.base_sums.SRP186687_SRR8618319.ALL.bw	WM-793	primary	Caucasian	malignant_melanoma
+SRR8615706	sra.base_sums.SRP186687_SRR8615706.ALL.bw	KOPN-8	primary	Asian	lymphoid_neoplasm (acute_lymphoblastic_B_cell_leukaemia)
+SRR8615713	sra.base_sums.SRP186687_SRR8615713.ALL.bw	JURL-MK1	primary	Caucasian	haematopoietic_neoplasm (blast_phase_chronic_myeloid_leukaemia)
+SRR8615716	sra.base_sums.SRP186687_SRR8615716.ALL.bw	K029AX	primary	Caucasian	malignant_melanoma
+SRR8615719	sra.base_sums.SRP186687_SRR8615719.ALL.bw	LCLC-97TM1	primary	Caucasian	carcinoma (large_cell_carcinoma)
+SRR8615720	sra.base_sums.SRP186687_SRR8615720.ALL.bw	TUHR14TKB	primary	Asian	carcinoma
+SRR8615726	sra.base_sums.SRP186687_SRR8615726.ALL.bw	TT	primary	Caucasian	carcinoma (medullary_carcinoma)
+SRR8615730	sra.base_sums.SRP186687_SRR8615730.ALL.bw	TTC549	NA	NA	NA
+SRR8615731	sra.base_sums.SRP186687_SRR8615731.ALL.bw	TTC1240	NA	NA	NA
+SRR8615732	sra.base_sums.SRP186687_SRR8615732.ALL.bw	GB-1	primary	Asian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615733	sra.base_sums.SRP186687_SRR8615733.ALL.bw	GCIY	primary	Asian	carcinoma (adenocarcinoma)
+SRR8615734	sra.base_sums.SRP186687_SRR8615734.ALL.bw	OVMANA	primary	Asian	carcinoma (clear_cell_carcinoma)
+SRR8615735	sra.base_sums.SRP186687_SRR8615735.ALL.bw	FU97	primary	Asian	carcinoma (diffuse_adenocarcinoma)
+SRR8615736	sra.base_sums.SRP186687_SRR8615736.ALL.bw	FU-OV-1	primary	Asian	carcinoma (serous_carcinoma)
+SRR8615737	sra.base_sums.SRP186687_SRR8615737.ALL.bw	G-292, clone A141B1	primary	Caucasian	osteosarcoma
+SRR8615738	sra.base_sums.SRP186687_SRR8615738.ALL.bw	G-361	primary	Caucasian	malignant_melanoma
+SRR8615739	sra.base_sums.SRP186687_SRR8615739.ALL.bw	G-401	primary	Caucasian	rhabdoid_tumour
+SRR8615740	sra.base_sums.SRP186687_SRR8615740.ALL.bw	G-402	primary	Caucasian	rhabdoid_tumour
+SRR8615741	sra.base_sums.SRP186687_SRR8615741.ALL.bw	GA-10	primary	Caucasian	lymphoid_neoplasm (Burkitt_lymphoma)
+SRR8615742	sra.base_sums.SRP186687_SRR8615742.ALL.bw	GAMG	primary	Caucasian	glioma
+SRR8615776	sra.base_sums.SRP186687_SRR8615776.ALL.bw	BHT-101	metastasis	Caucasian	carcinoma (anaplastic_carcinoma)
+SRR8615777	sra.base_sums.SRP186687_SRR8615777.ALL.bw	BHY	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615778	sra.base_sums.SRP186687_SRR8615778.ALL.bw	Hs 695T	metastasis	Caucasian	malignant_melanoma
+SRR8615779	sra.base_sums.SRP186687_SRR8615779.ALL.bw	Hs 698.T	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615780	sra.base_sums.SRP186687_SRR8615780.ALL.bw	Hs 706.T	primary	Caucasian	giant_cell_tumour
+SRR8615790	sra.base_sums.SRP186687_SRR8615790.ALL.bw	Hs 737.T	primary	Caucasian	giant_cell_tumour
+SRR8615812	sra.base_sums.SRP186687_SRR8615812.ALL.bw	T-47D	metastasis	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615813	sra.base_sums.SRP186687_SRR8615813.ALL.bw	NCI-H2122	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615814	sra.base_sums.SRP186687_SRR8615814.ALL.bw	NCI-H2126	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615815	sra.base_sums.SRP186687_SRR8615815.ALL.bw	HCC-1438	primary	African_american	carcinoma (large_cell_carcinoma)
+SRR8615816	sra.base_sums.SRP186687_SRR8615816.ALL.bw	HCC1428	metastasis	Caucasian	carcinoma
+SRR8615817	sra.base_sums.SRP186687_SRR8615817.ALL.bw	HCC1187	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615818	sra.base_sums.SRP186687_SRR8615818.ALL.bw	HCC-1171	primary	Caucasian	carcinoma (non_small_cell_carcinoma)
+SRR8615819	sra.base_sums.SRP186687_SRR8615819.ALL.bw	HCC1143	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615820	sra.base_sums.SRP186687_SRR8615820.ALL.bw	HARA	metastasis	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615821	sra.base_sums.SRP186687_SRR8615821.ALL.bw	HCC1419	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615822	sra.base_sums.SRP186687_SRR8615822.ALL.bw	HCC1395	primary	Caucasian	carcinoma (ductal_carcinoma)
+SRR8615823	sra.base_sums.SRP186687_SRR8615823.ALL.bw	HCC-1359	primary	African_american	carcinoma (large_cell_carcinoma)
+SRR8615825	sra.base_sums.SRP186687_SRR8615825.ALL.bw	TCC-PAN2	primary	Asian	carcinoma
+SRR8615826	sra.base_sums.SRP186687_SRR8615826.ALL.bw	TCCSUP	primary	Caucasian	carcinoma (transitional_cell_carcinoma)
+SRR8615827	sra.base_sums.SRP186687_SRR8615827.ALL.bw	TE-10	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615828	sra.base_sums.SRP186687_SRR8615828.ALL.bw	TE-11	primary	Asian	carcinoma (squamous_cell_carcinoma)
+SRR8615829	sra.base_sums.SRP186687_SRR8615829.ALL.bw	T84	metastasis	Caucasian	carcinoma (adenocarcinoma)
+SRR8615830	sra.base_sums.SRP186687_SRR8615830.ALL.bw	T98G	primary	Caucasian	glioma (astrocytoma_Grade_IV, glioblastoma_multiforme)
+SRR8615831	sra.base_sums.SRP186687_SRR8615831.ALL.bw	TALL-1	primary	NA	lymphoid_neoplasm (acute_lymphoblastic_T_cell_leukaemia)
