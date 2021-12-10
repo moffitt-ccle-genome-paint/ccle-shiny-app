@@ -1,0 +1,145 @@
+ <!DOCTYPE html>
+<html>
+<body>
+<script src="https://proteinpaint.stjude.org/bin/proteinpaint.js" charset="utf-8"></script>
+
+<div id=a style="margin:10px"></div>
+
+<script>
+
+function getAllUrlParams(url) {
+  // get query string from url (optional) or window
+  var queryString = url ? url.split('?')[1] : window.location.search.slice(1);
+  // we'll store the parameters here
+  var obj = {};
+  // if query string exists
+  if (queryString) {
+    // stuff after # is not part of query string, so get rid of it
+    queryString = queryString.split('#')[0];
+    // split our query string into its component parts
+    var arr = queryString.split('&');
+    for (var i = 0; i < arr.length; i++) {
+      // separate the keys and the values
+      var a = arr[i].split('=');
+      // set parameter name and value (use 'true' if empty)
+      var paramName = a[0];
+      var paramValue = typeof (a[1]) === 'undefined' ? true : a[1];
+      // (optional) keep case consistent
+      paramName = paramName.toLowerCase();
+      //if (typeof paramValue === 'string') paramValue = paramValue.toLowerCase();
+      // if the paramName ends with square brackets, e.g. colors[] or colors[2]
+      if (paramName.match(/\[(\d+)?\]$/)) {
+        // create key if it doesn't exist
+        var key = paramName.replace(/\[(\d+)?\]/, '');
+        if (!obj[key]) obj[key] = [];
+        // if it's an indexed array e.g. colors[2]
+        if (paramName.match(/\[\d+\]$/)) {
+          // get the index value and add the entry at the appropriate position
+          var index = /\[(\d+)\]/.exec(paramName)[1];
+          obj[key][index] = paramValue;
+        } else {
+          // otherwise add the value to the end of the array
+          obj[key].push(paramValue);
+        }
+      } else {
+        // we're dealing with a string
+        if (!obj[paramName]) {
+          // if it doesn't exist, create property
+          obj[paramName] = paramValue;
+        } else if (obj[paramName] && typeof obj[paramName] === 'string'){
+          // if property does exist and it's a string, convert it to an array
+          obj[paramName] = [obj[paramName]];
+          obj[paramName].push(paramValue);
+        } else {
+          // otherwise add the property
+          obj[paramName].push(paramValue);
+        }
+      }
+    }
+  }
+  return obj;
+}
+const queryString = window.location.search;
+console.log(queryString);
+var obj = getAllUrlParams(queryString);
+var gene_name = obj["gene_name"];
+var sample_name = obj["sample_name"];
+var bw_file = obj["bigwig_file"];
+var color = obj["color"];
+//var position = obj["position"]
+//var gene_name = obj["gene_name"]
+
+runproteinpaint({
+	host: "https://proteinpaint.stjude.org",
+	//holder: document.getElementById('a'),
+	//parseurl: true,
+	//gene: gene_name,
+	//position:'chr12:25334648-25426944',
+	//nobox: 0,
+	holder:document.getElementById('a'),
+	parseurl:true,
+	block:true,
+	nobox:1,
+	noheader:0,
+	position:'chr13:28003273-28100592',
+	
+
+	//nativetracks:'RefGene',
+	genome: "hg38",
+	tracks:[
+
+                {
+			// dynamic bigwig
+                        type: "bigwig",
+                        name: sample_name,
+			// input ccle bigwig file
+                        url: "http://shawlab.science/shiny/CCLE/bw/" + bw_file ,
+			
+                        //url: "http://duffel.rail.bio/recount3/human/data_sources/sra/base_sums/87/SRP186687/85/sra/base_sums.SRP186687_SRR8615285.ALL.bw",
+                        hideItemNames: true,
+                       	color: "#23A455"
+                },
+
+
+
+		/*{
+            		type: "junction",
+            		file: "hg38/tim/AML_FredHutch/TARGET-20-PAXWMS-03A-01R_RBS_withJunctionsOnGenome_dupsFlagged.STAR.SJ.out.tab.pptabuniq.sorted.gz",
+            		name: "RNA splice junction demo",
+            		list_description: [
+                	{
+                    		k: "CT-AC_known",
+                    		v: "CT-AC_known"
+                	},
+			{
+				k: "GT-AG_known",
+				v: "GT-AG_known"
+			},
+                        {
+                                k: "GC-AG_known",
+                                v: "GC-AG_known"
+                        },
+
+            		]
+        	},*/
+		{
+			__isgene: true,
+			translatecoding: true,
+			categories: {
+				coding: { color: '#004D99', label: 'Coding gene' },
+				nonCoding: { color: '#009933', label: 'Noncoding gene' },
+				problem: { color: '#FF3300', label: 'Problem' },
+				pseudo: { color: '#FF00CC', label: 'Pseudogene' }
+			},
+			type: 'bedj',
+			name: 'GENCODE v34',
+			stackheight: 16,
+			stackspace: 1,
+			vpad: 4,
+			file: 'anno/gencode.v34.hg38.gz'
+		},
+	]
+})
+</script>
+</body>
+</html>
