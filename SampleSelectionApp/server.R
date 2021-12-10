@@ -280,7 +280,7 @@ server <- function(input, output, session) {
             if (firstChoice %in% disease_choice) {
                 
                 samples <- unlist(meta[which(meta$primary_disease == firstChoice),1], use.names = F)
-                expr_sub <- expr[,which(colnames(expr) %in% samples)]
+                expr_sub <- expr[,which(colnames(expr) %in% samples), drop = F]
                 expr_sub$gene <- rownames(expr_sub)
                 expr_sub <- expr_sub %>%
                     relocate(gene)
@@ -293,7 +293,7 @@ server <- function(input, output, session) {
                 else if (secondChoice != "All_Sub_Lineages"){
                     samples <- unlist(meta[which(meta$lineage == firstChoice & meta$lineage_subtype == secondChoice),1], use.names = F)
                 }
-                expr_sub <- expr[,which(colnames(expr) %in% samples)]
+                expr_sub <- expr[,which(colnames(expr) %in% samples), drop = F]
                 expr_sub$gene <- rownames(expr_sub)
                 expr_sub <- expr_sub %>%
                     relocate(gene)
