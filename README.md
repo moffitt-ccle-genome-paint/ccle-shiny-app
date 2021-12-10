@@ -1,10 +1,11 @@
 # ccle-shiny-app
 
-The cancer cell line encyclopedia resource is a well characterized dataset with significant potential for therapeutic discoveries. However, the exploration of the dataset is hard and often requires significant computational resource to perform these analysis. Therefore, we have developed a shiny app in attempt to harmonize existing resource to allow users to access various details on its genome and gene expression data.
+The cancer cell line encyclopedia (CCLE) project is a well-characterized multi-omics dataset with significant potential for therapeutic discoveries. However, the exploration of the dataset is often complex and requires significant expertise and computational power to perform these analyses. Therefore, we have developed a shiny app to harmonize existing resources to allow users to access details of the mutation, RNA sequencing coverage, and expression data.
+Team 1 implemented an interactive web page for the genome browser that leverages St Jude's protein paint API to display big wig tracks downloaded from the recount3 server. 
 
-For the genome browser, we implemented an html page that leverages St Jude's protein paint API to display big wig tracks downloaded from the recount3 server. 
-Given the rich dataset from CCLE, we plan to develop a series of R script to extract CCLE mutation information followed by gene expression analysis by our previously developed application: DRPPM-EASY Expression Analysis with ShinY.
+Team 2 developed a series of R scripts to extract CCLE cell line meta-information, SNV/Indel of genetic drivers, and gene expression.
+The harmonized data can then be ported into our previously developed application: DRPPM-EASY, an app for performing Expression Analysis with Shiny. https://github.com/shawlab-moffitt/DRPPM-EASY-ExprAnalysisShinY
 
-Our pilot project provides a proof of concept of feasibility with opportunity to expand features that further integrate additional information such as splicing events, proteomics data, Chip-seq profiles, drug treatment information, and genetic screens. Our project also provides a model for federated data sharing that has high potential for collaboration and discovery.
+Our pilot project provides a proof of concept of feasibility with the opportunity to expand toward integrating additional information such as splicing events, proteomics data, Chip-seq profiles, drug treatment information, and genetic screens. Our project also provides a model for federated data sharing that has a high potential for collaboration and discovery.
 
 http://biostools/4472414/Shiny/CCLE_Data_Hackathon/app/
