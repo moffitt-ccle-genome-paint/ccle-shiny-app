@@ -8,6 +8,7 @@ The harmonized data can then be ported into our previously developed application
 
 Our pilot project provides a proof of concept of feasibility with the opportunity to expand toward integrating additional information such as splicing events, proteomics data, Chip-seq profiles, drug treatment information, and genetic screens. Our project also provides a model for federated data sharing that has a high potential for collaboration and discovery.
 
+Moffitt's link (needs to be inside Moffitt's internal network for access)
 http://biostools/4472414/Shiny/CCLE_Data_Hackathon/app/
 
 http://biostools/4472414/Shiny/CCLE_Data_Hackathon/SampleSelectionApp/
